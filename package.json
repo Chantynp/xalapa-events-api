@@ -1,0 +1,13 @@
+{
+  "name": "xalapa-events-api",
+  "version": "1.0.0",
+  "description": "Scraper de eventos de Xalapa — Eventbrite API + vidaenxalapa.com",
+  "private": true,
+  "scripts": {
+    "fetch": "node scripts/fetch-events.js",
+    "fetch:dev": "node -e \"require('dotenv').config(); require('./scripts/fetch-events.js')\""
+  },
+  "devDependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
