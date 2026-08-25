@@ -36,16 +36,35 @@ function get(url) {
   });
 }
 
+async function fetchVenueAddresses() {
+  const addresses = {};
+  for (const venue of VENUES) {
+    try {
+      const v = await get(`https://www.eventbriteapi.com/v3/venues/${venue.id}/`);
+      addresses[venue.id] = v.address?.localized_address_display || v.address?.address_1 || null;
+    } catch (_) {}
+  }
+  return addresses;
+}
+
 async function fetchEventbriteEvents() {
   console.log('🎵 Fetching Eventbrite events...');
+  const addresses = await fetchVenueAddresses();
+  const now = new Date();
   const all = [];
 
   for (const venue of VENUES) {
     try {
       const res = await get(`https://www.eventbriteapi.com/v3/venues/${venue.id}/events/`);
+      let liveCount = 0;
       for (const e of res.events) {
-        if (e.status === 'live' || e.status === 'started') {
-          const logoUrl = e.logo?.url || null;
+        const isLive = e.status === 'live' || e.status === 'started';
+        const eventDate = new Date(e.start.local);
+        const daysAgo = (now - eventDate) / (1000 * 60 * 60 * 24);
+        const isRecent = e.status === 'completed' && daysAgo <= 30 && daysAgo >= 0;
+
+        if (isLive || isRecent) {
+          if (isLive) liveCount++;
           all.push({
             id: `eb_${e.id}`,
             source: 'eventbrite',
@@ -56,16 +75,17 @@ async function fetchEventbriteEvents() {
             time: e.start.local.split('T')[1]?.slice(0, 5) || null,
             timezone: e.start.timezone || 'America/Mexico_City',
             venue: venue.name,
-            venueAddress: null,
+            venueAddress: addresses[venue.id] || null,
             isFree: e.is_free,
             price: e.is_free ? 0 : null,
             currency: e.currency || 'MXN',
-            image: logoUrl,
+            image: e.logo?.url || null,
             categoryId: e.category_id || null,
+            status: e.status,
           });
         }
       }
-      console.log(`  ✅ ${venue.name}: ${res.events.filter((e) => e.status === 'live').length} live`);
+      console.log(`  ✅ ${venue.name}: ${liveCount} live, ${res.events.length} total`);
     } catch (err) {
       console.error(`  ❌ ${venue.name}: ${err.message}`);
     }
@@ -82,6 +102,9 @@ function mergeAndSort(events) {
     }
   }
   return Array.from(unique.values()).sort((a, b) => {
+    const scoreA = a.status === 'live' ? 0 : a.status === 'started' ? 1 : 2;
+    const scoreB = b.status === 'live' ? 0 : b.status === 'started' ? 1 : 2;
+    if (scoreA !== scoreB) return scoreA - scoreB;
     const da = a.date + (a.time || 'T00:00');
     const db = b.date + (b.time || 'T00:00');
     return da.localeCompare(db);
