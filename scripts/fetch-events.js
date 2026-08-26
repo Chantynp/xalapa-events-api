@@ -47,24 +47,51 @@ async function fetchVenueAddresses() {
   return addresses;
 }
 
+const RECENT_DAYS = 30;
+
+async function fetchVenueEvents(venueId) {
+  const events = [];
+  let url = `https://www.eventbriteapi.com/v3/venues/${venueId}/events/`;
+  let page = 0;
+
+  while (url) {
+    const res = await get(url);
+    events.push(...res.events);
+    page++;
+    console.log(`    page ${page}: +${res.events.length} events (total: ${events.length}/${res.pagination.object_count})`);
+
+    if (res.pagination.has_more_items && res.pagination.continuation) {
+      url = `https://www.eventbriteapi.com/v3/venues/${venueId}/events/?continuation=${res.pagination.continuation}`;
+    } else {
+      url = null;
+    }
+  }
+
+  return events;
+}
+
 async function fetchEventbriteEvents() {
   console.log('🎵 Fetching Eventbrite events...');
   const addresses = await fetchVenueAddresses();
   const now = new Date();
+  const cutoff = new Date(now - RECENT_DAYS * 24 * 60 * 60 * 1000);
   const all = [];
 
   for (const venue of VENUES) {
     try {
-      const res = await get(`https://www.eventbriteapi.com/v3/venues/${venue.id}/events/`);
+      console.log(`  📍 ${venue.name}...`);
+      const events = await fetchVenueEvents(venue.id);
       let liveCount = 0;
-      for (const e of res.events) {
+      let included = 0;
+
+      for (const e of events) {
         const isLive = e.status === 'live' || e.status === 'started';
         const eventDate = new Date(e.start.local);
-        const daysAgo = (now - eventDate) / (1000 * 60 * 60 * 24);
-        const isRecent = e.status === 'completed' && daysAgo <= 30 && daysAgo >= 0;
+        const isRecent = e.status === 'completed' && eventDate >= cutoff && eventDate <= now;
 
         if (isLive || isRecent) {
           if (isLive) liveCount++;
+          included++;
           all.push({
             id: `eb_${e.id}`,
             source: 'eventbrite',
@@ -85,7 +112,7 @@ async function fetchEventbriteEvents() {
           });
         }
       }
-      console.log(`  ✅ ${venue.name}: ${liveCount} live, ${res.events.length} total`);
+      console.log(`  ✅ ${venue.name}: ${liveCount} live, ${included} included, ${events.length} total`);
     } catch (err) {
       console.error(`  ❌ ${venue.name}: ${err.message}`);
     }
