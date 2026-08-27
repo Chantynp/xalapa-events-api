@@ -1,26 +1,8 @@
 {
-  "updated": "2026-08-26T19:42:22.550Z",
+  "updated": "2026-08-27T06:51:33.072Z",
   "source": "eventbrite",
   "total": 46,
   "events": [
-    {
-      "id": "eb_1997641606821",
-      "source": "eventbrite",
-      "title": "Karla Hernández y amigos: Concierto de Recaudación de Fondos",
-      "description": "Pianista y compositora xalapeña, Karla Hernández explora el jazz contemporáneo a través de una voz propia.",
-      "url": "https://www.eventbrite.com.mx/e/karla-hernandez-y-amigos-concierto-de-recaudacion-de-fondos-tickets-1997641606821",
-      "date": "2026-08-26",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": true,
-      "price": 0,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190851259%2F264359681189%2F1%2Foriginal.20260812-000741?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.157&fp-y=0.538&s=7e82893ab629fd3de5b8172497a31065",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_1994766904509",
       "source": "eventbrite",
@@ -452,6 +434,24 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
+    },
+    {
+      "id": "eb_1997641606821",
+      "source": "eventbrite",
+      "title": "Karla Hernández y amigos: Concierto de Recaudación de Fondos",
+      "description": "Pianista y compositora xalapeña, Karla Hernández explora el jazz contemporáneo a través de una voz propia.",
+      "url": "https://www.eventbrite.com.mx/e/karla-hernandez-y-amigos-concierto-de-recaudacion-de-fondos-tickets-1997641606821",
+      "date": "2026-08-26",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": true,
+      "price": 0,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190851259%2F264359681189%2F1%2Foriginal.20260812-000741?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.157&fp-y=0.538&s=7e82893ab629fd3de5b8172497a31065",
+      "categoryId": "103",
+      "status": "started"
     },
     {
       "id": "eb_1993872701925",
