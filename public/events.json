@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T06:51:33.072Z",
+  "updated": "2026-08-27T21:37:35.042Z",
   "source": "eventbrite",
   "total": 46,
   "events": [
@@ -382,6 +382,24 @@
       "status": "live"
     },
     {
+      "id": "eb_1999045589170",
+      "source": "eventbrite",
+      "title": "Encantada",
+      "description": "Encantada llega por primera vez a México y presenta en Xalapa un concierto íntimo donde la música se vuelve recuerdo, consuelo y encuentro.",
+      "url": "https://www.eventbrite.com.mx/e/encantada-tickets-1999045589170",
+      "date": "2026-10-01",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192060752%2F264359681189%2F1%2Foriginal.20260827-184327?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511&fp-y=0.355&s=32278969d42c40704f02317832b02968",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
       "id": "eb_1998658659854",
       "source": "eventbrite",
       "title": "María Cristina Plata: Gira 2026",
@@ -434,42 +452,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1997641606821",
-      "source": "eventbrite",
-      "title": "Karla Hernández y amigos: Concierto de Recaudación de Fondos",
-      "description": "Pianista y compositora xalapeña, Karla Hernández explora el jazz contemporáneo a través de una voz propia.",
-      "url": "https://www.eventbrite.com.mx/e/karla-hernandez-y-amigos-concierto-de-recaudacion-de-fondos-tickets-1997641606821",
-      "date": "2026-08-26",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": true,
-      "price": 0,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190851259%2F264359681189%2F1%2Foriginal.20260812-000741?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.157&fp-y=0.538&s=7e82893ab629fd3de5b8172497a31065",
-      "categoryId": "103",
-      "status": "started"
-    },
-    {
-      "id": "eb_1993872701925",
-      "source": "eventbrite",
-      "title": "Felipe Fournier Latin Jazz Quintet: Presenta URBANO: A Reggaeton Songbook",
-      "description": "Clásicos del reggaetón con arreglos inéditos en jazz latino, desde Tego Calderón hasta Bad Bunny, desde Rosalía hasta Wisin y Yandel.",
-      "url": "https://www.eventbrite.com.mx/e/felipe-fournier-latin-jazz-quintet-presenta-urbano-a-reggaeton-songbook-tickets-1993872701925",
-      "date": "2026-07-28",
-      "time": "19:30",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188786025%2F264359681189%2F1%2Foriginal.20260713-210448?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=34ce190fc921211ba7dd4ef56a937f8e",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_1992455998527",
@@ -828,6 +810,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189824161%2F264359681189%2F1%2Foriginal.20260728-203740?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.534&fp-y=0.515&s=2ef3255642d0f73a45d46bbdf527d790",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_1997641606821",
+      "source": "eventbrite",
+      "title": "Karla Hernández y amigos: Concierto de Recaudación de Fondos",
+      "description": "Pianista y compositora xalapeña, Karla Hernández explora el jazz contemporáneo a través de una voz propia.",
+      "url": "https://www.eventbrite.com.mx/e/karla-hernandez-y-amigos-concierto-de-recaudacion-de-fondos-tickets-1997641606821",
+      "date": "2026-08-26",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": true,
+      "price": 0,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190851259%2F264359681189%2F1%2Foriginal.20260812-000741?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.157&fp-y=0.538&s=7e82893ab629fd3de5b8172497a31065",
       "categoryId": "103",
       "status": "completed"
     }
