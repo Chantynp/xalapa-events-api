@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-28T08:39:19.446Z",
+  "updated": "2026-08-28T21:39:59.398Z",
   "source": "eventbrite",
-  "total": 45,
+  "total": 44,
   "events": [
     {
       "id": "eb_1992072340997",
@@ -436,42 +436,6 @@
       "status": "live"
     },
     {
-      "id": "eb_1992455998527",
-      "source": "eventbrite",
-      "title": "Concierto Sinfónica Azteca en Xalapa, Veracruz",
-      "description": "¡Celebra el 6.º aniversario de Sinfónica Azteca con un concierto inolvidable en la emblemática Tlaqná Centro Cultural en Xalapa, Veracruz!",
-      "url": "https://www.eventbrite.com/e/concierto-sinfonica-azteca-en-xalapa-veracruz-tickets-1992455998527",
-      "date": "2026-07-29",
-      "time": "19:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Tlaqná Centro Cultural",
-      "venueAddress": "1 Cultura Veracruzana, Xalapa-Enríquez, VER 91094",
-      "isFree": true,
-      "price": 0,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187586712%2F3006252521252%2F1%2Foriginal.20260624-190858?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.498&fp-y=0.093&s=5b2db8a6691536160eca6df3c1d946e5",
-      "categoryId": "103",
-      "status": "completed"
-    },
-    {
-      "id": "eb_1992707018334",
-      "source": "eventbrite",
-      "title": "Los Exiliados del Norte con Edna Nao: Norteño con alma",
-      "description": "Norteño elegante. Tex-Mex que sí se baila.  \nCon la voz de Edna Nao, la fiesta suena mejor.",
-      "url": "https://www.eventbrite.com.mx/e/los-exiliados-del-norte-con-edna-nao-norteno-con-alma-tickets-1992707018334",
-      "date": "2026-07-29",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187779469%2F264359681189%2F1%2Foriginal.20260628-002643?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c97e0a4c75a63d143dde34b901fdedba",
-      "categoryId": "103",
-      "status": "completed"
-    },
-    {
       "id": "eb_1992525739123",
       "source": "eventbrite",
       "title": "Soflama: ¡La Soflama está en la casa! The Cumbia is Back",
@@ -810,6 +774,24 @@
       "price": 0,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190851259%2F264359681189%2F1%2Foriginal.20260812-000741?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.157&fp-y=0.538&s=7e82893ab629fd3de5b8172497a31065",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_1994766904509",
+      "source": "eventbrite",
+      "title": "María Vázquez Quinteto",
+      "description": "Repertorio de música original para quinteto que reúne la fuerza del rock progresivo con la libertad del jazz contemporáneo.",
+      "url": "https://www.eventbrite.com.mx/e/maria-vazquez-quinteto-tickets-1994766904509",
+      "date": "2026-08-27",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189370585%2F264359681189%2F1%2Foriginal.20260722-052310?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.475&s=9b81798584cc477fcc0d6d37ee1b675c",
       "categoryId": "103",
       "status": "completed"
     }
