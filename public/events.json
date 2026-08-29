@@ -1,26 +1,8 @@
 {
-  "updated": "2026-08-28T21:39:59.398Z",
+  "updated": "2026-08-29T05:18:03.339Z",
   "source": "eventbrite",
   "total": 44,
   "events": [
-    {
-      "id": "eb_1992072340997",
-      "source": "eventbrite",
-      "title": "Mariella y Venero: La Vida Que Nos Tocó",
-      "description": "Pop, folk y ritmos latinoamericanos convergen en la música de Mariella y Venero, donde tradición e identidad dialogan.",
-      "url": "https://www.eventbrite.com.mx/e/mariella-y-venero-la-vida-que-nos-toco-tickets-1992072340997",
-      "date": "2026-08-28",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133321%2F264359681189%2F1%2Foriginal.20260617-185558?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e576b0f90800b0a73b17ddef12afb525",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_1993883223395",
       "source": "eventbrite",
@@ -434,6 +416,24 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
+    },
+    {
+      "id": "eb_1992072340997",
+      "source": "eventbrite",
+      "title": "Mariella y Venero: La Vida Que Nos Tocó",
+      "description": "Pop, folk y ritmos latinoamericanos convergen en la música de Mariella y Venero, donde tradición e identidad dialogan.",
+      "url": "https://www.eventbrite.com.mx/e/mariella-y-venero-la-vida-que-nos-toco-tickets-1992072340997",
+      "date": "2026-08-28",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133321%2F264359681189%2F1%2Foriginal.20260617-185558?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e576b0f90800b0a73b17ddef12afb525",
+      "categoryId": "103",
+      "status": "started"
     },
     {
       "id": "eb_1992525739123",
