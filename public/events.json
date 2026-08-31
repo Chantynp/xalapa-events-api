@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T12:29:04.256Z",
+  "updated": "2026-08-31T22:18:55.839Z",
   "source": "eventbrite",
   "total": 42,
   "events": [
@@ -382,6 +382,24 @@
       "status": "live"
     },
     {
+      "id": "eb_1999306987018",
+      "source": "eventbrite",
+      "title": "Noel Allende: Memorias y especulaciones para cuarteto de cuerdas",
+      "description": "Prepárate para un viaje sonoro con cuerdas que mezclan recuerdos y fantasías en una sesión única.",
+      "url": "https://www.eventbrite.com.mx/e/noel-allende-memorias-y-especulaciones-para-cuarteto-de-cuerdas-tickets-1999306987018",
+      "date": "2026-10-20",
+      "time": "19:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192316674%2F264359681189%2F1%2Foriginal.20260831-213331?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=0d91617b42179fb96852675d6e56291d",
+      "categoryId": "105",
+      "status": "live"
+    },
+    {
       "id": "eb_1992074314901",
       "source": "eventbrite",
       "title": "Calixto Oviedo QUINTET",
@@ -398,24 +416,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1994156023347",
-      "source": "eventbrite",
-      "title": "Eloy Zúñiga: Jarana Huasteca",
-      "description": "Virtuosismo y raíz convergen en una propuesta que expande el universo sonoro de la Huasteca.",
-      "url": "https://www.eventbrite.com.mx/e/eloy-zuniga-jarana-huasteca-tickets-1994156023347",
-      "date": "2026-08-01",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189001361%2F264359681189%2F1%2Foriginal.20260716-141030?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2ac62ef0a973dee1a2317003695ec96f",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_1994765270622",
