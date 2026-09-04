@@ -1,26 +1,8 @@
 {
-  "updated": "2026-09-04T02:33:58.287Z",
+  "updated": "2026-09-04T10:25:05.119Z",
   "source": "eventbrite",
-  "total": 42,
+  "total": 41,
   "events": [
-    {
-      "id": "eb_1997935261149",
-      "source": "eventbrite",
-      "title": "Coyolicatzin: El vuelo del colibrí - Concierto benéfico",
-      "description": "El vuelo del colibrí entrelaza canción de autor, bolero y raíz zapoteca en un concierto de memoria y encuentro.",
-      "url": "https://www.eventbrite.com.mx/e/coyolicatzin-el-vuelo-del-colibri-concierto-benefico-tickets-1997935261149",
-      "date": "2026-09-03",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191025605%2F264359681189%2F1%2Foriginal.20260814-000916?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=b98669b2311ef306660ff30822225100",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_1997803018608",
       "source": "eventbrite",
