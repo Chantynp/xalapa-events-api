@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-05T19:49:48.890Z",
+  "updated": "2026-09-06T02:31:51.480Z",
   "source": "eventbrite",
-  "total": 44,
+  "total": 43,
   "events": [
     {
       "id": "eb_1996757472351",
@@ -416,24 +416,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1994765543438",
-      "source": "eventbrite",
-      "title": "Jose Luis Quetzal: Invocaciones",
-      "description": "Luis Quetzal presenta composiciones propias junto con temas modernos y clásicos del jazz mundial, junto con su quinteto.",
-      "url": "https://www.eventbrite.com.mx/e/jose-luis-quetzal-invocaciones-tickets-1994765543438",
-      "date": "2026-08-06",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189369690%2F264359681189%2F1%2Foriginal.20260722-045714?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.912&fp-y=0.529&s=bb602393d343b30cc762bb73e3d4847b",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_1995780184256",
