@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-06T10:08:43.087Z",
+  "updated": "2026-09-06T14:48:07.593Z",
   "source": "eventbrite",
-  "total": 42,
+  "total": 43,
   "events": [
     {
       "id": "eb_1997939051486",
@@ -756,6 +756,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190947599%2F264359681189%2F1%2Foriginal.20260813-021627?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2012a57a7ec35a9e94c7fce35ff6f453",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_1996757472351",
+      "source": "eventbrite",
+      "title": "Miguel Inzunza: NOC-TOUR-NOS · Presentación de Nocturnos",
+      "description": "Miguel Inzunza construye canciones que habitan la noche, la memoria y los encuentros desde una voz profundamente personal.",
+      "url": "https://www.eventbrite.com.mx/e/miguel-inzunza-noc-tour-nos-presentacion-de-nocturnos-tickets-1996757472351",
+      "date": "2026-09-05",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190322725%2F264359681189%2F1%2Foriginal.20260804-211222?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cb49a386c1696ff467f96fc43a9cc388",
       "categoryId": "103",
       "status": "completed"
     }
