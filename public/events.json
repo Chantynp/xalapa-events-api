@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-12T14:52:57.734Z",
+  "updated": "2026-09-12T20:04:04.363Z",
   "source": "eventbrite",
-  "total": 38,
+  "total": 37,
   "events": [
     {
       "id": "eb_1997939051486",
@@ -398,24 +398,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1993872849366",
-      "source": "eventbrite",
-      "title": "Niñas bien presentan \"Chisme en tu ciudad\" | Comedia | Xalapa",
-      "description": "¡NIÑAS BIEN PRESENTAN \"CHISME EN TU CIUDAD\" EN VIVO POR PRIMERA VEZ EN XALAPA!",
-      "url": "https://www.eventbrite.com.mx/e/ninas-bien-presentan-chisme-en-tu-ciudad-comedia-xalapa-tickets-1993872849366",
-      "date": "2026-08-13",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "La Séptima Estación",
-      "venueAddress": "571 Avenida 20 de Noviembre, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188785716%2F404479006345%2F1%2Foriginal.20260713-210049?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.504&fp-y=0.35&s=4e0047d3fd6445b5aca085fcbe6b75a2",
-      "categoryId": "105",
-      "status": "completed"
     },
     {
       "id": "eb_1994906776871",
