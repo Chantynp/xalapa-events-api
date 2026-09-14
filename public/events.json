@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-14T11:33:39.504Z",
+  "updated": "2026-09-14T17:29:09.249Z",
   "source": "eventbrite",
-  "total": 36,
+  "total": 35,
   "events": [
     {
       "id": "eb_1997939051486",
@@ -398,24 +398,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1994385848761",
-      "source": "eventbrite",
-      "title": "Resonancias entre Cuerdas:",
-      "description": "Un concierto que honra la tradición de la guitarra y celebra a la nueva generación de intérpretes.",
-      "url": "https://www.eventbrite.com/e/resonancias-entre-cuerdas-tickets-1994385848761",
-      "date": "2026-08-15",
-      "time": "14:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Sala Anexa (Tlaqná)",
-      "venueAddress": "25, Martires de Chicago Cultura Veracruzana, Xalapa-Enríquez, VER 91094",
-      "isFree": false,
-      "price": null,
-      "currency": "USD",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189077827%2F59726899019%2F1%2Foriginal.20260717-154004?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.444&fp-y=0.06&s=d5bb7d789832260d9d4e45ce08004fb7",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_1994307572635",
