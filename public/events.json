@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-16T10:43:13.597Z",
+  "updated": "2026-09-16T15:59:20.871Z",
   "source": "eventbrite",
-  "total": 33,
+  "total": 34,
   "events": [
     {
       "id": "eb_1992073616813",
@@ -594,6 +594,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191729648%2F264359681189%2F1%2Foriginal.20260824-035254?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.34&fp-y=0.665&s=f313aee8baa2fa659775a247302fbb95",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_1998163484772",
+      "source": "eventbrite",
+      "title": "La Calandria y el Ensamble de los Grandes Vientos",
+      "description": "La Calandria reimagina el son jarocho en un ensamble que amplía su universo sonoro sin perder su esencia.",
+      "url": "https://www.eventbrite.com.mx/e/la-calandria-y-el-ensamble-de-los-grandes-vientos-tickets-1998163484772",
+      "date": "2026-09-15",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191208706%2F264359681189%2F1%2Foriginal.20260817-011952?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.559&fp-y=0.48&s=f5c697ac81cb04843839f5b60a1ddaf2",
       "categoryId": "103",
       "status": "completed"
     }
