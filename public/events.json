@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-16T20:46:42.800Z",
+  "updated": "2026-09-17T03:01:45.647Z",
   "source": "eventbrite",
-  "total": 34,
+  "total": 37,
   "events": [
     {
       "id": "eb_1992073616813",
@@ -55,6 +55,24 @@
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191299984%2F264359681189%2F1%2Foriginal.20260818-015629?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.864&fp-y=0.576&s=758aa91dfcaca4eb0eee99fa1000ea21",
       "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2001266857042",
+      "source": "eventbrite",
+      "title": "SONEX: Celebramos el mes patrio (segunda función)",
+      "description": "Desde Veracruz, Sonex ha construido una de las propuestas más influyentes del son jarocho contemporáneo",
+      "url": "https://www.eventbrite.com.mx/e/sonex-celebramos-el-mes-patrio-segunda-funcion-tickets-2001266857042",
+      "date": "2026-09-19",
+      "time": "22:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193697402%2F264359681189%2F1%2Foriginal.20260916-212825?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.509&fp-y=0.28&s=4614cefbba910d15b7ab161995e9cc32",
+      "categoryId": "113",
       "status": "live"
     },
     {
@@ -198,6 +216,42 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191683638%2F264359681189%2F1%2Foriginal.20260823-033337?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a8ad18bfc57c5d142d05157ebf337fa6",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2001009484233",
+      "source": "eventbrite",
+      "title": "Erika Delmar",
+      "description": "Erika Delmar vuelve a los escenarios con un concierto íntimo acompañada de su banda",
+      "url": "https://www.eventbrite.com.mx/e/erika-delmar-tickets-2001009484233",
+      "date": "2026-10-09",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193615610%2F264359681189%2F1%2Foriginal.20260916-012250?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.57&fp-y=0.27&s=8e001abfaf212859e0efd415496c47a3",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2001267962348",
+      "source": "eventbrite",
+      "title": "Van Lester & Rey David Alejandre: Presentando el disco “Juntos al rescate”",
+      "description": "Dos músicos unidos por la historia de la salsa se encuentran en CAUZ para\npresentar “Juntos al Rescate”.",
+      "url": "https://www.eventbrite.com.mx/e/van-lester-rey-david-alejandre-presentando-el-disco-juntos-al-rescate-tickets-2001267962348",
+      "date": "2026-10-10",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193699535%2F264359681189%2F1%2Foriginal.20260916-215452?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d33877fb8a57c5be846cec44ef0ff982",
       "categoryId": "103",
       "status": "live"
     },
