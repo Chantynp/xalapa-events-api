@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-19T10:10:46.298Z",
+  "updated": "2026-09-19T15:13:26.325Z",
   "source": "eventbrite",
-  "total": 36,
+  "total": 37,
   "events": [
     {
       "id": "eb_1998163559997",
@@ -648,6 +648,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189620006%2F264359681189%2F1%2Foriginal.20260725-212951?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b53a5d12cc22b85655a92a184017a6a8",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_1998456855251",
+      "source": "eventbrite",
+      "title": "Ricardo Amadeus: Morir amando Tour",
+      "description": "Ricardo Amadeus crea un universo donde la canción de autor, el jazz, el R&B y la poesía encuentran un lenguaje propio.",
+      "url": "https://www.eventbrite.com.mx/e/ricardo-amadeus-morir-amando-tour-tickets-1998456855251",
+      "date": "2026-09-18",
+      "time": "08:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191472773%2F264359681189%2F1%2Foriginal.20260819-232652?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d3e7c501088de0305a99a707f6cea3ae",
       "categoryId": "103",
       "status": "completed"
     }
