@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-20T10:29:03.850Z",
+  "updated": "2026-09-20T15:17:46.820Z",
   "source": "eventbrite",
-  "total": 40,
+  "total": 42,
   "events": [
     {
       "id": "eb_1998163850867",
@@ -382,6 +382,24 @@
       "status": "live"
     },
     {
+      "id": "eb_2001764707125",
+      "source": "eventbrite",
+      "title": "ALEJANDRA PANIGAGUA: gira \"MADRE\" 2026 fullband (presentación de álbum)",
+      "description": "Alejandra Paniagua regresa a su natal Xalapa para presentar Madre, su más reciente disco, en el Foro Cauz.",
+      "url": "https://www.eventbrite.com.mx/e/alejandra-panigagua-gira-madre-2026-fullband-presentacion-de-album-tickets-2001764707125",
+      "date": "2026-10-30",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193941672%2F264359681189%2F1%2Foriginal.20260920-103042?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.728&s=01b8b21089bef388ecba22fa46259b82",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
       "id": "eb_1992074314901",
       "source": "eventbrite",
       "title": "Calixto Oviedo QUINTET",
@@ -721,6 +739,24 @@
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191299984%2F264359681189%2F1%2Foriginal.20260818-015629?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.864&fp-y=0.576&s=758aa91dfcaca4eb0eee99fa1000ea21",
       "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2001266857042",
+      "source": "eventbrite",
+      "title": "SONEX: Celebramos el mes patrio (segunda función)",
+      "description": "Desde Veracruz, Sonex ha construido una de las propuestas más influyentes del son jarocho contemporáneo",
+      "url": "https://www.eventbrite.com.mx/e/sonex-celebramos-el-mes-patrio-segunda-funcion-tickets-2001266857042",
+      "date": "2026-09-19",
+      "time": "22:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193697402%2F264359681189%2F1%2Foriginal.20260916-212825?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.509&fp-y=0.28&s=4614cefbba910d15b7ab161995e9cc32",
+      "categoryId": "113",
       "status": "completed"
     }
   ]
