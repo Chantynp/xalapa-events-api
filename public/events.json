@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-19T19:56:17.408Z",
+  "updated": "2026-09-20T02:59:50.673Z",
   "source": "eventbrite",
-  "total": 37,
+  "total": 38,
   "events": [
     {
       "id": "eb_1998163559997",
@@ -184,6 +184,24 @@
       "status": "live"
     },
     {
+      "id": "eb_2001709785854",
+      "source": "eventbrite",
+      "title": "Midnigth Heads",
+      "description": "Midnight Heads es un power trio que interpreta éxitos del Doo-woop, Rock and roll y Rockabilly con la intención de conectar estos géneros.",
+      "url": "https://www.eventbrite.com.mx/e/midnigth-heads-tickets-2001709785854",
+      "date": "2026-10-08",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193919868%2F264359681189%2F1%2Foriginal.20260919-202310?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.485&fp-y=0.331&s=47c1b2ed5ec5149f9da9fdbb6eca2957",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
       "id": "eb_2001009484233",
       "source": "eventbrite",
       "title": "Erika Delmar",
@@ -216,6 +234,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193699535%2F264359681189%2F1%2Foriginal.20260916-215452?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d33877fb8a57c5be846cec44ef0ff982",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2001724963250",
+      "source": "eventbrite",
+      "title": "DIALOGOS: Metales y teclas",
+      "description": "Diálogos: Metales y Teclas es un recital de música de cámara que reúne la sonoridad de la trompeta, el trombón y la versatilidad del piano",
+      "url": "https://www.eventbrite.com.mx/e/dialogos-metales-y-teclas-tickets-2001724963250",
+      "date": "2026-10-14",
+      "time": "19:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193932118%2F264359681189%2F1%2Foriginal.20260920-025100?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.453&fp-y=0.091&s=16bed2e6cd889105af365f743d6f4ecf",
       "categoryId": "103",
       "status": "live"
     },
@@ -344,24 +380,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1995788702735",
-      "source": "eventbrite",
-      "title": "Nain Solana Quartet",
-      "description": "Nain Solana Quartet encuentra en el cuarteto un espacio donde cada músico transforma el rumbo de la música.",
-      "url": "https://www.eventbrite.com.mx/e/nain-solana-quartet-tickets-1995788702735",
-      "date": "2026-08-20",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189823366%2F264359681189%2F1%2Foriginal.20260728-202755?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7c5072039bd12c17cd92103ab79ea28c",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_1995053838737",
