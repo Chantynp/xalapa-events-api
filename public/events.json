@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-25T10:59:43.388Z",
+  "updated": "2026-09-25T16:21:41.921Z",
   "source": "eventbrite",
-  "total": 40,
+  "total": 41,
   "events": [
     {
       "id": "eb_1998164792684",
@@ -720,6 +720,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191209371%2F264359681189%2F1%2Foriginal.20260817-013855?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=24e7ea69c4e940fc0c3843e6bc77752f",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_1998327174372",
+      "source": "eventbrite",
+      "title": "Siglo Vacío",
+      "description": "Siglo Vacío construye un lenguaje propio entre el rock, el jazz fusión y la improvisación libre.",
+      "url": "https://www.eventbrite.com.mx/e/siglo-vacio-tickets-1998327174372",
+      "date": "2026-09-24",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191300574%2F264359681189%2F1%2Foriginal.20260818-020934?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e823bf9022a813b7a6984b16dfba31bc",
       "categoryId": "103",
       "status": "completed"
     }
