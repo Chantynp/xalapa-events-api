@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T21:00:55.533Z",
+  "updated": "2026-09-26T03:08:43.062Z",
   "source": "eventbrite",
   "total": 40,
   "events": [
@@ -251,7 +251,7 @@
       "isFree": false,
       "price": null,
       "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192316674%2F264359681189%2F1%2Foriginal.20260831-213331?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=0d91617b42179fb96852675d6e56291d",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194398413%2F264359681189%2F1%2Foriginal.20260925-231105?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.467&fp-y=0.058&s=b0e86818beda4cae35ca9a1581132d14",
       "categoryId": "105",
       "status": "live"
     },
