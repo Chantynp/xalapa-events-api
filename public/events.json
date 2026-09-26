@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-26T15:36:20.806Z",
+  "updated": "2026-09-26T20:33:56.510Z",
   "source": "eventbrite",
-  "total": 40,
+  "total": 39,
   "events": [
     {
       "id": "eb_1998617906961",
@@ -380,24 +380,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1994766904509",
-      "source": "eventbrite",
-      "title": "María Vázquez Quinteto",
-      "description": "Repertorio de música original para quinteto que reúne la fuerza del rock progresivo con la libertad del jazz contemporáneo.",
-      "url": "https://www.eventbrite.com.mx/e/maria-vazquez-quinteto-tickets-1994766904509",
-      "date": "2026-08-27",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189370585%2F264359681189%2F1%2Foriginal.20260722-052310?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.475&s=9b81798584cc477fcc0d6d37ee1b675c",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_1992072340997",
