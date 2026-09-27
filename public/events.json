@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-27T11:14:43.022Z",
+  "updated": "2026-09-27T16:15:21.283Z",
   "source": "eventbrite",
-  "total": 38,
+  "total": 39,
   "events": [
     {
       "id": "eb_1998217277668",
@@ -684,6 +684,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191210614%2F264359681189%2F1%2Foriginal.20260817-021022?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=53fb7eca75fd3a1eca25c5d6f5fb8ec2",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_1998617906961",
+      "source": "eventbrite",
+      "title": "Valeria Jasso",
+      "description": "Las canciones de Valeria Jasso nacen entre el trópico, la experimentación y una mirada profundamente personal.",
+      "url": "https://www.eventbrite.com.mx/e/valeria-jasso-tickets-1998617906961",
+      "date": "2026-09-26",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191636186%2F264359681189%2F1%2Foriginal.20260822-003819?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.14&fp-y=0.513&s=565bfadb7e3a4e5f96f0cf8f6a7ace69",
       "categoryId": "103",
       "status": "completed"
     }
