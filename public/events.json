@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-28T12:42:30.572Z",
+  "updated": "2026-09-28T22:52:43.224Z",
   "source": "eventbrite",
-  "total": 38,
+  "total": 37,
   "events": [
     {
       "id": "eb_1998217277668",
@@ -205,7 +205,7 @@
       "id": "eb_1999306987018",
       "source": "eventbrite",
       "title": "Noel Allende: Memorias y especulaciones para cuarteto de cuerdas",
-      "description": "Prepárate para un viaje sonoro con cuerdas que mezclan recuerdos y fantasías en una sesión única.",
+      "description": "Prepárate para un viaje sonoro con cuerdas que mezclan recuerdos y fantasías en una sesión única con el compositor y el cuarteto jacaranda.",
       "url": "https://www.eventbrite.com.mx/e/noel-allende-memorias-y-especulaciones-para-cuarteto-de-cuerdas-tickets-1999306987018",
       "date": "2026-10-20",
       "time": "19:00",
@@ -362,24 +362,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1993883223395",
-      "source": "eventbrite",
-      "title": "Omar Márquez: Capitan de una década",
-      "description": "Con voz, guitarra y canciones, Omar Márquez celebra una década de trayectoria en un concierto cercano y profundamente honesto.",
-      "url": "https://www.eventbrite.com.mx/e/omar-marquez-capitan-de-una-decada-tickets-1993883223395",
-      "date": "2026-08-29",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188799709%2F264359681189%2F1%2Foriginal.20260714-010539?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=5d66adaca04971ba47fae6a4ad7500e1",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_1997933332380",
