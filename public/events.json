@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-02T17:18:29.512Z",
+  "updated": "2026-10-02T21:44:09.406Z",
   "source": "eventbrite",
-  "total": 39,
+  "total": 38,
   "events": [
     {
       "id": "eb_1998658659854",
@@ -344,24 +344,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1997933332380",
-      "source": "eventbrite",
-      "title": "Los Descarados",
-      "description": "Los Descarados reinterpretan el son huasteco desde el virtuosismo y una profunda comprensión de su tradición.",
-      "url": "https://www.eventbrite.com.mx/e/los-descarados-tickets-1997933332380",
-      "date": "2026-09-02",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191025240%2F264359681189%2F1%2Foriginal.20260814-000304?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=49ee7943364b60fb4ce8ed693afbad56",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_1997935261149",
