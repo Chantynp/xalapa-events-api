@@ -1,26 +1,8 @@
 {
-  "updated": "2026-10-02T03:42:56.444Z",
+  "updated": "2026-10-02T11:45:55.939Z",
   "source": "eventbrite",
   "total": 39,
   "events": [
-    {
-      "id": "eb_1999045589170",
-      "source": "eventbrite",
-      "title": "Encantada",
-      "description": "Encantada llega por primera vez a México y presenta en Xalapa un concierto íntimo donde la música se vuelve recuerdo, consuelo y encuentro.",
-      "url": "https://www.eventbrite.com.mx/e/encantada-tickets-1999045589170",
-      "date": "2026-10-01",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192060752%2F264359681189%2F1%2Foriginal.20260827-184327?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511&fp-y=0.355&s=32278969d42c40704f02317832b02968",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_1998658659854",
       "source": "eventbrite",
@@ -702,6 +684,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191300223%2F264359681189%2F1%2Foriginal.20260818-020225?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1dfd55864b4922fdbcc9d4f70f849ed9",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_1999045589170",
+      "source": "eventbrite",
+      "title": "Encantada",
+      "description": "Encantada llega por primera vez a México y presenta en Xalapa un concierto íntimo donde la música se vuelve recuerdo, consuelo y encuentro.",
+      "url": "https://www.eventbrite.com.mx/e/encantada-tickets-1999045589170",
+      "date": "2026-10-01",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192060752%2F264359681189%2F1%2Foriginal.20260827-184327?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511&fp-y=0.355&s=32278969d42c40704f02317832b02968",
       "categoryId": "103",
       "status": "completed"
     }
