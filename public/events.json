@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T03:55:37.156Z",
+  "updated": "2026-10-04T11:41:22.091Z",
   "source": "eventbrite",
-  "total": 37,
+  "total": 36,
   "events": [
     {
       "id": "eb_2001005074042",
@@ -326,24 +326,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1998658659854",
-      "source": "eventbrite",
-      "title": "María Cristina Plata: Gira 2026",
-      "description": "María Cristina Plata convierte la canción latinoamericana en un regreso a la memoria, el hogar y los afectos.",
-      "url": "https://www.eventbrite.com.mx/e/maria-cristina-plata-gira-2026-tickets-1998658659854",
-      "date": "2026-10-03",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191683638%2F264359681189%2F1%2Foriginal.20260823-033337?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a8ad18bfc57c5d142d05157ebf337fa6",
-      "categoryId": "103",
-      "status": "started"
     },
     {
       "id": "eb_1997803018608",
