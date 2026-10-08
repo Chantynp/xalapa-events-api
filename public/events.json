@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-08T12:40:42.760Z",
+  "updated": "2026-10-08T22:46:02.090Z",
   "source": "eventbrite",
-  "total": 35,
+  "total": 37,
   "events": [
     {
       "id": "eb_2001709785854",
@@ -288,6 +288,42 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194694902%2F264359681189%2F1%2Foriginal.20260930-042342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.418&fp-y=0.226&s=85b1d6f26d3be2440a80b7030c099e2a",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2003167821879",
+      "source": "eventbrite",
+      "title": "OLGA CERPA Y MESTISAY: Desde Islas Canarias",
+      "description": "En su gira mexicana 2026, Olga Cerpa y Mestisay traen su nueva producción discográfica La costa de los cantares.",
+      "url": "https://www.eventbrite.com.mx/e/olga-cerpa-y-mestisay-desde-islas-canarias-tickets-2003167821879",
+      "date": "2026-11-05",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195394214%2F264359681189%2F1%2Foriginal.20261008-185750?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.714&fp-y=0.358&s=682c14d78457b45e103d704aaf66880d",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2003171126764",
+      "source": "eventbrite",
+      "title": "IK' BALAM: Música para quinteto",
+      "description": "Ik'Balam es músico, compositor y arreglista. Es el primero en estudiar en México un programa académico de jazz con el requinto jarocho.",
+      "url": "https://www.eventbrite.com.mx/e/ik-balam-musica-para-quinteto-tickets-2003171126764",
+      "date": "2026-11-11",
+      "time": "19:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195399770%2F264359681189%2F1%2Foriginal.20261008-200145?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.819&fp-y=0.298&s=c9d8fa36f422c110c816bfeb48d6aaed",
       "categoryId": "103",
       "status": "live"
     },
