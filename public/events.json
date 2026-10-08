@@ -1,26 +1,8 @@
 {
-  "updated": "2026-10-07T22:33:40.781Z",
+  "updated": "2026-10-08T04:07:33.160Z",
   "source": "eventbrite",
   "total": 35,
   "events": [
-    {
-      "id": "eb_2001005074042",
-      "source": "eventbrite",
-      "title": "Coloquio las bajas pasiones: soberbia y sumisión",
-      "description": "¿Hasta dónde somos capaces de llegar cuando nos domina el ego o nos vence la entrega?",
-      "url": "https://www.eventbrite.com.mx/e/coloquio-las-bajas-pasiones-soberbia-y-sumision-tickets-2001005074042",
-      "date": "2026-10-07",
-      "time": "19:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": true,
-      "price": 0,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193469522%2F264359681189%2F1%2Foriginal.20260914-173756?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.519&fp-y=0.635&s=3b4a1dd1a54cf4e59f33109838df0076",
-      "categoryId": "113",
-      "status": "live"
-    },
     {
       "id": "eb_2001709785854",
       "source": "eventbrite",
@@ -326,6 +308,24 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
+    },
+    {
+      "id": "eb_2001005074042",
+      "source": "eventbrite",
+      "title": "Coloquio las bajas pasiones: soberbia y sumisión",
+      "description": "¿Hasta dónde somos capaces de llegar cuando nos domina el ego o nos vence la entrega?",
+      "url": "https://www.eventbrite.com.mx/e/coloquio-las-bajas-pasiones-soberbia-y-sumision-tickets-2001005074042",
+      "date": "2026-10-07",
+      "time": "19:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": true,
+      "price": 0,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193469522%2F264359681189%2F1%2Foriginal.20260914-173756?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.519&fp-y=0.635&s=3b4a1dd1a54cf4e59f33109838df0076",
+      "categoryId": "113",
+      "status": "started"
     },
     {
       "id": "eb_1997939051486",
