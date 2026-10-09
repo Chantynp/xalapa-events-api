@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T04:12:56.533Z",
+  "updated": "2026-10-09T12:27:50.127Z",
   "source": "eventbrite",
   "total": 37,
   "events": [
@@ -328,24 +328,6 @@
       "status": "live"
     },
     {
-      "id": "eb_2001709785854",
-      "source": "eventbrite",
-      "title": "Midnigth Heads",
-      "description": "Midnight Heads es un power trio que interpreta éxitos del Doo-woop, Rock and roll y Rockabilly con la intención de conectar estos géneros.",
-      "url": "https://www.eventbrite.com.mx/e/midnigth-heads-tickets-2001709785854",
-      "date": "2026-10-08",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193919868%2F264359681189%2F1%2Foriginal.20260919-202310?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.485&fp-y=0.331&s=47c1b2ed5ec5149f9da9fdbb6eca2957",
-      "categoryId": "103",
-      "status": "started"
-    },
-    {
       "id": "eb_1997939051486",
       "source": "eventbrite",
       "title": "Cuarteto de flautas \"Orquídeas\": Reminiscencias",
@@ -667,6 +649,24 @@
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193469522%2F264359681189%2F1%2Foriginal.20260914-173756?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.519&fp-y=0.635&s=3b4a1dd1a54cf4e59f33109838df0076",
       "categoryId": "113",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2001709785854",
+      "source": "eventbrite",
+      "title": "Midnigth Heads",
+      "description": "Midnight Heads es un power trio que interpreta éxitos del Doo-woop, Rock and roll y Rockabilly con la intención de conectar estos géneros.",
+      "url": "https://www.eventbrite.com.mx/e/midnigth-heads-tickets-2001709785854",
+      "date": "2026-10-08",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193919868%2F264359681189%2F1%2Foriginal.20260919-202310?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.485&fp-y=0.331&s=47c1b2ed5ec5149f9da9fdbb6eca2957",
+      "categoryId": "103",
       "status": "completed"
     }
   ]
