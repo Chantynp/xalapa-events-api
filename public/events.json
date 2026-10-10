@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-10T16:49:44.526Z",
+  "updated": "2026-10-10T21:02:52.573Z",
   "source": "eventbrite",
-  "total": 36,
+  "total": 35,
   "events": [
     {
       "id": "eb_2001267962348",
@@ -308,24 +308,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1998658754136",
-      "source": "eventbrite",
-      "title": "Los Pablos Jazz Trio: Gira Internacional 2026",
-      "description": "Los Pablos construyen un jazz de creación colectiva donde tres voces convergen en un mismo lenguaje.",
-      "url": "https://www.eventbrite.com.mx/e/los-pablos-jazz-trio-gira-internacional-2026-tickets-1998658754136",
-      "date": "2026-09-10",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191683911%2F264359681189%2F1%2Foriginal.20260823-035145?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.395&fp-y=0.386&s=2fc6a2ca322e0f3400e601b0cb9e8e0f",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_1998163390490",
