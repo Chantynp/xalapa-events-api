@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-10T21:02:52.573Z",
+  "updated": "2026-10-11T03:32:34.644Z",
   "source": "eventbrite",
-  "total": 35,
+  "total": 36,
   "events": [
     {
       "id": "eb_2001267962348",
@@ -252,6 +252,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194694902%2F264359681189%2F1%2Foriginal.20260930-042342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.418&fp-y=0.226&s=85b1d6f26d3be2440a80b7030c099e2a",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2003247815141",
+      "source": "eventbrite",
+      "title": "SIMÓN MOULLIER",
+      "description": "CAUZ, en colaboración con JAZZ AL SUR, presenta a Simón Moullier, vibrafonista, compositor",
+      "url": "https://www.eventbrite.com.mx/e/simon-moullier-tickets-2003247815141",
+      "date": "2026-11-04",
+      "time": "19:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195528119%2F264359681189%2F1%2Foriginal.20261010-223747?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.476&fp-y=0.272&s=0f0257e30baf870e7feda850552fd527",
       "categoryId": "103",
       "status": "live"
     },
