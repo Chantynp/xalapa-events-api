@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-13T00:03:42.226Z",
+  "updated": "2026-10-13T13:23:38.356Z",
   "source": "eventbrite",
-  "total": 37,
+  "total": 41,
   "events": [
     {
       "id": "eb_2001724963250",
@@ -310,6 +310,24 @@
       "status": "live"
     },
     {
+      "id": "eb_2003322234732",
+      "source": "eventbrite",
+      "title": "ANAPAU REYES + CRISTÓBAL CORTÉS GROUP: Noche de jazz entre amigos",
+      "description": "La pasión por la música y el género del jazz es lo que ha llevado a cada uno de los integrantes foráneos a encontrarse en Xalapa.",
+      "url": "https://www.eventbrite.com.mx/e/anapau-reyes-cristobal-cortes-group-noche-de-jazz-entre-amigos-tickets-2003322234732",
+      "date": "2026-11-12",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195652836%2F264359681189%2F1%2Foriginal.20261013-002036?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.573&fp-y=0.487&s=a9c1310b3816ed24ed2569fe7130a392",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
       "id": "eb_1992074314901",
       "source": "eventbrite",
       "title": "Calixto Oviedo QUINTET",
@@ -346,6 +364,42 @@
       "status": "live"
     },
     {
+      "id": "eb_2003324851559",
+      "source": "eventbrite",
+      "title": "LASSE MØRK: Presentación del álbum \"Lo simple\"",
+      "description": "Lasse Mørck regresa a Xalapa con \"Lo simple\" propuesta musical de jazz contemporáneo",
+      "url": "https://www.eventbrite.com.mx/e/lasse-mrk-presentacion-del-album-lo-simple-tickets-2003324851559",
+      "date": "2026-11-19",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195656949%2F264359681189%2F1%2Foriginal.20261013-014458?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.238&s=001efe17ae3432853f4b6e293d2ddad7",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2003323406236",
+      "source": "eventbrite",
+      "title": "LA LUMBRERA: Presentación de \"Al pie de un árbol\"",
+      "description": "La lumbrera, es una agrupación formada en Xalapa (2024) para preservar y difundir el canto cardenche, tradición polifónica a capella.",
+      "url": "https://www.eventbrite.com.mx/e/la-lumbrera-presentacion-de-al-pie-de-un-arbol-tickets-2003323406236",
+      "date": "2026-11-21",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195656090%2F264359681189%2F1%2Foriginal.20261013-012804?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.51&fp-y=0.321&s=115b80cec190fde32d720c475bcf40a1",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
       "id": "eb_2003321009066",
       "source": "eventbrite",
       "title": "AMIR MORENO & PANAMERICAN STRINGS: Presentación del álbum Vol. IV",
@@ -360,6 +414,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195651214%2F264359681189%2F1%2Foriginal.20261012-235225?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=532955f1e35b6dac599ffc8a847714a1",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2003321910763",
+      "source": "eventbrite",
+      "title": "ENTRE VERSOS, CUERDAS Y TARIMAS: 4to aniversario",
+      "description": "Celebra con nosotros cuatro años de buena música, poesía y baile en una noche que no olvidarás.",
+      "url": "https://www.eventbrite.com.mx/e/entre-versos-cuerdas-y-tarimas-4to-aniversario-tickets-2003321910763",
+      "date": "2026-11-28",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195652159%2F264359681189%2F1%2Foriginal.20261013-000738?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.429&fp-y=0.255&s=203bf35e05c022352fef353de0cb41dd",
       "categoryId": "103",
       "status": "live"
     },
