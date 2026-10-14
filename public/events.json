@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-14T16:22:26.298Z",
+  "updated": "2026-10-14T21:13:19.505Z",
   "source": "eventbrite",
-  "total": 41,
+  "total": 39,
   "events": [
     {
       "id": "eb_2001724963250",
@@ -55,24 +55,6 @@
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191298745%2F264359681189%2F1%2Foriginal.20260818-013112?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.426&fp-y=0.553&s=b29b647fff0c83d010b1bef71260ad45",
       "categoryId": "103",
-      "status": "live"
-    },
-    {
-      "id": "eb_1999306987018",
-      "source": "eventbrite",
-      "title": "Noel Allende: Memorias y especulaciones para cuarteto de cuerdas",
-      "description": "Prepárate para un viaje sonoro con cuerdas que mezclan recuerdos y fantasías en una sesión única con el compositor y el cuarteto jacaranda.",
-      "url": "https://www.eventbrite.com.mx/e/noel-allende-memorias-y-especulaciones-para-cuarteto-de-cuerdas-tickets-1999306987018",
-      "date": "2026-10-20",
-      "time": "19:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194398413%2F264359681189%2F1%2Foriginal.20260925-231105?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.467&fp-y=0.058&s=b0e86818beda4cae35ca9a1581132d14",
-      "categoryId": "105",
       "status": "live"
     },
     {
@@ -324,24 +306,6 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195652836%2F264359681189%2F1%2Foriginal.20261013-002036?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.573&fp-y=0.487&s=a9c1310b3816ed24ed2569fe7130a392",
-      "categoryId": "103",
-      "status": "live"
-    },
-    {
-      "id": "eb_1992074314901",
-      "source": "eventbrite",
-      "title": "Calixto Oviedo QUINTET",
-      "description": "Reconocido como uno de los grandes bateristas de Cuba, Calixto Oviedo ha llevado su música a escenarios de todo el mundo.",
-      "url": "https://www.eventbrite.com.mx/e/calixto-oviedo-quintet-tickets-1992074314901",
-      "date": "2026-11-13",
-      "time": "08:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187133598%2F264359681189%2F1%2Foriginal.20260617-190007?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a426e59f44d22c1d492a472cc11da21f",
       "categoryId": "103",
       "status": "live"
     },
