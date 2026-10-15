@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-15T10:44:52.953Z",
+  "updated": "2026-10-15T16:10:01.004Z",
   "source": "eventbrite",
-  "total": 39,
+  "total": 40,
   "events": [
     {
       "id": "eb_2001763991986",
@@ -702,6 +702,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193699535%2F264359681189%2F1%2Foriginal.20260916-215452?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d33877fb8a57c5be846cec44ef0ff982",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2001724963250",
+      "source": "eventbrite",
+      "title": "DIALOGOS: Metales y teclas",
+      "description": "Diálogos: Metales y Teclas es un recital de música de cámara que reúne la sonoridad de la trompeta, el trombón y la versatilidad del piano",
+      "url": "https://www.eventbrite.com.mx/e/dialogos-metales-y-teclas-tickets-2001724963250",
+      "date": "2026-10-14",
+      "time": "19:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193932118%2F264359681189%2F1%2Foriginal.20260920-025100?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.453&fp-y=0.091&s=16bed2e6cd889105af365f743d6f4ecf",
       "categoryId": "103",
       "status": "completed"
     }
