@@ -1,11 +1,13 @@
 {
   "name": "xalapa-events-api",
   "version": "1.0.0",
-  "description": "Scraper de eventos de Xalapa — Eventbrite API + vidaenxalapa.com",
+  "description": "Datos de Xalapa para la app: eventos de Eventbrite y rutas del transporte publico",
   "private": true,
   "scripts": {
     "fetch": "node scripts/fetch-events.js",
-    "fetch:dev": "node -e \"require('dotenv').config(); require('./scripts/fetch-events.js')\""
+    "fetch:dev": "node -e \"require('dotenv').config(); require('./scripts/fetch-events.js')\"",
+    "routes": "node scripts/build-routes.js",
+    "routes:sync": "node scripts/build-routes.js --sync-app ../XalapaConnectMVP/src/data/routesFallback.js"
   },
   "devDependencies": {
     "dotenv": "^17.4.2"
