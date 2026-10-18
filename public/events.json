@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T19:59:34.698Z",
+  "updated": "2026-10-18T02:42:06.875Z",
   "source": "eventbrite",
   "total": 39,
   "events": [
@@ -310,6 +310,24 @@
       "status": "live"
     },
     {
+      "id": "eb_2003556344962",
+      "source": "eventbrite",
+      "title": "LA YAYA SOL SEXTETO: Canciones de montaña y jarana",
+      "description": "Prepárate para una tarde llena de ritmo y sabor con sonidos que te llevarán directo a la montaña y la jarana.",
+      "url": "https://www.eventbrite.com.mx/e/la-yaya-sol-sexteto-canciones-de-montana-y-jarana-tickets-2003556344962",
+      "date": "2026-11-18",
+      "time": "19:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196020166%2F264359681189%2F1%2Foriginal.20261017-224432?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.438&fp-y=0.292&s=c5487212e20f8d6c9adb3c2cf9d2b854",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
       "id": "eb_2003324851559",
       "source": "eventbrite",
       "title": "LASSE MØRK: Presentación del álbum \"Lo simple\"",
@@ -380,24 +398,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195652159%2F264359681189%2F1%2Foriginal.20261013-000738?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.429&fp-y=0.255&s=203bf35e05c022352fef353de0cb41dd",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1992073616813",
-      "source": "eventbrite",
-      "title": "Flor Saban",
-      "description": "Flor Saban llega por primera vez a Veracruz con un espectáculo que fusiona folclor argentino, pop, rock y performance escénico.",
-      "url": "https://www.eventbrite.com.mx/e/flor-saban-tickets-1992073616813",
-      "date": "2026-09-17",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189620006%2F264359681189%2F1%2Foriginal.20260725-212951?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b53a5d12cc22b85655a92a184017a6a8",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_1998456855251",
