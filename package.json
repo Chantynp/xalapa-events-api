@@ -8,7 +8,8 @@
     "fetch:dev": "node -e \"require('dotenv').config(); require('./scripts/fetch-events.js')\"",
     "routes": "node scripts/build-routes.js",
     "routes:sync": "node scripts/build-routes.js --sync-app ../XalapaConnectMVP/src/data/routesFallback.js",
-    "routes:import": "node scripts/import-kml.js"
+    "routes:import": "node scripts/import-kml.js",
+    "routes:fix": "node scripts/corregir-polilineas.js"
   },
   "devDependencies": {
     "dotenv": "^17.4.2"
