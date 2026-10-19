@@ -1,7 +1,7 @@
 // Importa una ruta trackeada en KML y la agrega a data/rutas.json.
 //
-//   node scripts/import-kml.js --file mi-ruta.kml --id verde2 --nombre "Camión 2" --color "#4CAF50"
-//   node scripts/import-kml.js --file ruta.kml --id azul --nombre "Camión Azul" --simplify 8
+//   node scripts/import-kml.js --file mi-ruta.gpx --id verde2 --nombre "Camión 2" --color "#4CAF50"
+//   node scripts/import-kml.js --file ruta.gpx --id azul --nombre "Camión Azul" --simplify 8
 //
 // Que resuelve del KML:
 //   - el trazo (LineString o gx:Track) -> geometria de la ruta
@@ -16,7 +16,7 @@
 //   - paradas con el mismo nombre y coordenadas distintas
 //
 // Opciones:
-//   --file <ruta.kml>      obligatorio
+//   --file <ruta.kml|ruta.gpx>      obligatorio
 //   --id <slug>            obligatorio, unico en el JSON
 //   --nombre <texto>       obligatorio, como aparece en el selector
 //   --color <#RRGGBB>      opcional, si no se rota una paleta
@@ -47,54 +47,8 @@ function dentro([lon, lat]) {
   return lat >= AREA.latMin && lat <= AREA.latMax && lon >= AREA.lonMin && lon <= AREA.lonMax;
 }
 
-// ---------------------------------------------------------------- KML
+const { leer: leerTraza } = require('./leer-traza');
 
-function leerKml(texto) {
-  const coords = [];
-  // LineString clasico. Entre <LineString> y <coordinates> puede haber <tessellate>
-  // o <gx:...>, asi que se empareja el inicio con el primer <coordinates> que sigue.
-  for (const m of texto.matchAll(/<LineString[^>]*>[\s\S]*?<coordinates>([\s\S]*?)<\/coordinates>/gi)) {
-    coords.push(...parsearLista(m[1]));
-  }
-  // gx:Track (Google Earth y varias apps de trackeo)
-  if (coords.length === 0) {
-    for (const m of texto.matchAll(/<gx:Track[^>]*>([\s\S]*?)<\/gx:Track>/gi)) {
-      for (const c of m[1].matchAll(/<gx:coord>([^<]+)<\/gx:coord>/gi)) {
-        coords.push(...parsearLista(c[1].replace(/\s+/g, ' ')));
-      }
-    }
-  }
-  // PolyLine (algunas exportaciones)
-  if (coords.length === 0) {
-    for (const m of texto.matchAll(/<gx:Polyline[^>]*>([\s\S]*?)<\/gx:Polyline>/gi)) {
-      for (const c of m[1].matchAll(/<gx:coord>([^<]+)<\/gx:coord>/gi)) {
-        coords.push(...parsearLista(c[1].replace(/\s+/g, ' ')));
-      }
-    }
-  }
-
-  const paradas = [];
-  for (const m of texto.matchAll(/<Placemark[^>]*>([\s\S]*?)<\/Placemark>/gi)) {
-    const bloque = m[1];
-    const punto = bloque.match(/<Point[^>]*>\s*<coordinates>([^<]+)<\/coordinates>\s*<\/Point>/i);
-    if (!punto) continue;
-    const c = parsearLista(punto[1])[0];
-    if (!c) continue;
-    const nombre = (bloque.match(/<name>([\s\S]*?)<\/name>/i) || [, ''])[1]
-      .replace(/<!\[CDATA\[|\]\]>/g, '').trim();
-    const cuando = (bloque.match(/<when>([^<]+)<\/when>/i) || [, ''])[1].trim();
-    paradas.push({ nombre, punto: c, cuando });
-  }
-
-  return { coords, paradas };
-}
-
-// KML: "lon,lat,alt lon,lat,alt" -> [[lon, lat], ...]
-function parsearLista(bruto) {
-  return bruto.trim().split(/\s+/).map(t => t.split(',').map(Number))
-    .filter(p => p.length >= 2 && Number.isFinite(p[0]) && Number.isFinite(p[1]))
-    .map(p => [+p[0].toFixed(5), +p[1].toFixed(5)]);
-}
 
 // ---------------------------------------------------------------- geometria
 
@@ -164,7 +118,7 @@ const frecuencia = Number(opt('--frecuencia', '30'));
 const simplificarM = Number(opt('--simplify', '0'));
 
 if (!file || !id || !nombre) {
-  console.error('Uso: node scripts/import-kml.js --file <ruta.kml> --id <slug> --nombre "Camion X" [--color #RRGGBB] [--frecuencia 30] [--simplify 8]');
+  console.error('Uso: node scripts/import-kml.js --file <ruta.kml|ruta.gpx> --id <slug> --nombre "Camion X" [--color #RRGGBB] [--frecuencia 30] [--simplify 8]');
   process.exit(1);
 }
 if (!/^[a-z0-9-]+$/.test(id)) errores.push(`--id "${id}" debe ser un slug en minusculas (a-z, 0-9, guion)`);
@@ -173,12 +127,12 @@ if (color && !/^#[0-9A-Fa-f]{6}$/.test(color)) errores.push(`--color "${color}" 
 const doc = JSON.parse(fs.readFileSync(CANONICO, 'utf8'));
 if (doc.rutas.features.some(f => f.id === id)) errores.push(`ya existe una ruta con id "${id}"`);
 
-const { coords, paradas } = leerKml(fs.readFileSync(path.resolve(RAIZ, file), 'utf8'));
+const { coords, paradas, formato } = leerTraza(fs.readFileSync(path.resolve(RAIZ, file), 'utf8'), file);
 
 if (coords.length < 2) {
-  console.error('\nNo se encontro ninguna traza en el KML.');
-  console.error('Se buscan <LineString><coordinates>, <gx:Track><gx:coord> y <gx:Polyline>.');
-  console.error('Revisa el archivo: algunos exportadores ponen la traza como <MultiGeometry> o en un .gpx.');
+  console.error(`\nNo se encontro ninguna traza (formato detectado: ${formato}).`);
+  console.error('KML: <LineString><coordinates>, <gx:Track><gx:coord> o <gx:Polyline>.');
+  console.error('GPX: <trkpt lat lon> o <rtept lat lon>.');
   process.exit(1);
 }
 if (!paradas.length) {
@@ -191,7 +145,7 @@ if (fuera.length) avisos.push(`${fuera.length} de ${geo.length} puntos del trazo
 
 const ordenadas = ordenarPorTrazo(paradas, geo);
 const sinNombre = ordenadas.filter(p => !p.nombre);
-for (const p of sinNombre) avisos.push(`parada sin nombre en el KML (cerca de ${p.punto.join(', ')}) — ponle nombre en el editor o en el KML antes de volver a correr`);
+for (const p of sinNombre) avisos.push(`parada sin nombre en el archivo (cerca de ${p.punto.join(', ')}) — ponle nombre en el editor o en el KML antes de volver a correr`);
 for (const p of ordenadas.filter(p => p.desvio > 80)) avisos.push(`"${p.nombre || 'sin nombre'}" esta a ${Math.round(p.desvio)} m del trazo: revisa que caiga sobre la linea`);
 
 // ids de parada
@@ -242,7 +196,7 @@ console.log(`trazo: ${coords.length} puntos${simplificarM > 0 ? ` -> ${geo.lengt
 let km = 0;
 for (let i = 1; i < geo.length; i++) km += metrosEntre(geo[i - 1], geo[i]);
 console.log(`longitud: ${(km / 1000).toFixed(2)} km`);
-console.log(`paradas en el KML: ${paradas.length} | con nombre: ${featureParadas.length}`);
+console.log(`paradas en el archivo: ${paradas.length} | con nombre: ${featureParadas.length}`);
 if (featureParadas.length) console.log('orden detectado:\n  ' + featureParadas.map((_, i) => `${i + 1}. ${nuevasParadas[i].properties.nombre}`).join('\n  '));
 
 if (errores.length) {
