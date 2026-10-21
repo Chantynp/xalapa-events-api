@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-21T16:28:52.191Z",
+  "updated": "2026-10-21T21:08:30.988Z",
   "source": "eventbrite",
-  "total": 39,
+  "total": 41,
   "events": [
     {
       "id": "eb_2001763344048",
@@ -238,6 +238,24 @@
       "status": "live"
     },
     {
+      "id": "eb_2003736061499",
+      "source": "eventbrite",
+      "title": "MARIA GRAND & ALAN VILLANUEVA",
+      "description": "Por primera vez en México, desde Nueva York: María, saxofonista, compositora y vocalista , ha sido elogiada por The New York Times.",
+      "url": "https://www.eventbrite.com.mx/e/maria-grand-alan-villanueva-tickets-2003736061499",
+      "date": "2026-11-08",
+      "time": "16:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196301197%2F264359681189%2F1%2Foriginal.20261021-182226?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.412&fp-y=0.177&s=d4cffd4d8113a9941359a6e8149458ba",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
       "id": "eb_2003171126764",
       "source": "eventbrite",
       "title": "IK' BALAM: Música para quinteto",
@@ -270,6 +288,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195652836%2F264359681189%2F1%2Foriginal.20261013-002036?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.573&fp-y=0.487&s=a9c1310b3816ed24ed2569fe7130a392",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2003732505864",
+      "source": "eventbrite",
+      "title": "SON DE MADERA: Caribe afroandaluz",
+      "description": "Ven a disfrutar con: Son de Madera, una de las agrupaciones musicales más importantes y emblemáticas del son jarocho contemporáneo.",
+      "url": "https://www.eventbrite.com.mx/e/son-de-madera-caribe-afroandaluz-tickets-2003732505864",
+      "date": "2026-11-13",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196299049%2F264359681189%2F1%2Foriginal.20261021-175537?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d00f1db21256cd49000f2461ec53f8a4",
       "categoryId": "103",
       "status": "live"
     },
