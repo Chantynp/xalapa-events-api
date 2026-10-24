@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T10:08:55.553Z",
+  "updated": "2026-10-24T15:16:04.620Z",
   "source": "eventbrite",
-  "total": 39,
+  "total": 40,
   "events": [
     {
       "id": "eb_2001764373126",
@@ -702,6 +702,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193940700%2F264359681189%2F1%2Foriginal.20260920-095056?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=63e738082ecb86bef1b414d5cce6f304",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_1999792002713",
+      "source": "eventbrite",
+      "title": "Miguelito Cruz Quintet",
+      "description": "Una celebración del ritmo, la raíz y la improvisación",
+      "url": "https://www.eventbrite.com.mx/e/miguelito-cruz-quintet-tickets-1999792002713",
+      "date": "2026-10-23",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192698613%2F264359681189%2F1%2Foriginal.20260904-170358?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.555&s=730462beacf607c12c514237b9e5134e",
       "categoryId": "103",
       "status": "completed"
     }
