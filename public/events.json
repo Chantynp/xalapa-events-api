@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T17:18:05.546Z",
+  "updated": "2026-10-27T21:43:54.411Z",
   "source": "eventbrite",
   "total": 37,
   "events": [
@@ -292,11 +292,11 @@
       "status": "live"
     },
     {
-      "id": "eb_2003324851559",
+      "id": "eb_2003991490494",
       "source": "eventbrite",
-      "title": "LASSE MØRK: Presentación del álbum \"Lo simple\"",
-      "description": "Lasse Mørck regresa a Xalapa con \"Lo simple\" propuesta musical de jazz contemporáneo",
-      "url": "https://www.eventbrite.com.mx/e/lasse-mrk-presentacion-del-album-lo-simple-tickets-2003324851559",
+      "title": "JUAN LAGUNES & DIEGO CERROBLANCO: Intercambios y exploraciones sonoras",
+      "description": "Prepárate para una sesión única donde Juan y Diego exploran sonidos y mezclan vibras en vivo.",
+      "url": "https://www.eventbrite.com.mx/e/juan-lagunes-diego-cerroblanco-intercambios-y-exploraciones-sonoras-tickets-2003991490494",
       "date": "2026-11-19",
       "time": "20:00",
       "timezone": "America/Mexico_City",
@@ -305,7 +305,7 @@
       "isFree": false,
       "price": null,
       "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195656949%2F264359681189%2F1%2Foriginal.20261013-014458?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.238&s=001efe17ae3432853f4b6e293d2ddad7",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196721445%2F264359681189%2F1%2Foriginal.20261027-210710?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.485&fp-y=0.358&s=d07262fd27425128050eef6f713ee74f",
       "categoryId": "103",
       "status": "live"
     },
