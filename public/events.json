@@ -1,26 +1,8 @@
 {
-  "updated": "2026-10-29T22:21:30.396Z",
+  "updated": "2026-10-30T04:01:38.906Z",
   "source": "eventbrite",
   "total": 36,
   "events": [
-    {
-      "id": "eb_1999794670693",
-      "source": "eventbrite",
-      "title": "Otro Trío",
-      "description": "+ Valentina Marentes y Paquito Cruz",
-      "url": "https://www.eventbrite.com.mx/e/otro-trio-tickets-1999794670693",
-      "date": "2026-10-29",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192701419%2F264359681189%2F1%2Foriginal.20260904-173458?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.579&fp-y=0.3&s=f4326f310d5743489d9d35bc6d82a707",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_2001764707125",
       "source": "eventbrite",
@@ -398,6 +380,24 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195652159%2F264359681189%2F1%2Foriginal.20261013-000738?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.429&fp-y=0.255&s=203bf35e05c022352fef353de0cb41dd",
       "categoryId": "103",
       "status": "live"
+    },
+    {
+      "id": "eb_1999794670693",
+      "source": "eventbrite",
+      "title": "Otro Trío",
+      "description": "+ Valentina Marentes y Paquito Cruz",
+      "url": "https://www.eventbrite.com.mx/e/otro-trio-tickets-1999794670693",
+      "date": "2026-10-29",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192701419%2F264359681189%2F1%2Foriginal.20260904-173458?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.579&fp-y=0.3&s=f4326f310d5743489d9d35bc6d82a707",
+      "categoryId": "103",
+      "status": "started"
     },
     {
       "id": "eb_1998217478268",
