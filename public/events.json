@@ -1,26 +1,8 @@
 {
-  "updated": "2026-11-03T00:23:06.127Z",
+  "updated": "2026-11-03T13:29:32.221Z",
   "source": "eventbrite",
   "total": 33,
   "events": [
-    {
-      "id": "eb_2002605911189",
-      "source": "eventbrite",
-      "title": "ARATH HERCE: aniversario de \"Musas en Mi\" (1.er concierto)",
-      "description": "Vamos a celebrar el aniversario de Musas en Mi con buena música y vibra increíble, ¡no te lo pierdas!",
-      "url": "https://www.eventbrite.com.mx/e/arath-herce-aniversario-de-musas-en-mi-1er-concierto-tickets-2002605911189",
-      "date": "2026-11-02",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194694485%2F264359681189%2F1%2Foriginal.20260930-041122?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.135&fp-y=0.173&s=1f0b79cf00af5d7245983a1a5c05af63",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_2002606395638",
       "source": "eventbrite",
@@ -594,6 +576,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193961032%2F264359681189%2F1%2Foriginal.20260920-192111?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=59937f809e8e29d3656e375a73dbd7a3",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2002605911189",
+      "source": "eventbrite",
+      "title": "ARATH HERCE: aniversario de \"Musas en Mi\" (1.er concierto)",
+      "description": "Vamos a celebrar el aniversario de Musas en Mi con buena música y vibra increíble, ¡no te lo pierdas!",
+      "url": "https://www.eventbrite.com.mx/e/arath-herce-aniversario-de-musas-en-mi-1er-concierto-tickets-2002605911189",
+      "date": "2026-11-02",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194694485%2F264359681189%2F1%2Foriginal.20260930-041122?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.135&fp-y=0.173&s=1f0b79cf00af5d7245983a1a5c05af63",
       "categoryId": "103",
       "status": "completed"
     }
