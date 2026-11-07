@@ -1,26 +1,8 @@
 {
-  "updated": "2026-11-07T04:16:00.209Z",
+  "updated": "2026-11-07T12:18:43.052Z",
   "source": "eventbrite",
-  "total": 32,
+  "total": 31,
   "events": [
-    {
-      "id": "eb_2003431925821",
-      "source": "eventbrite",
-      "title": "DARACH + TRIO XOXOCAPA",
-      "description": "Prepárate para una noche única con DARACH y TRIO XOXOCAPA que te harán vibrar con su música en vivo.",
-      "url": "https://www.eventbrite.com.mx/e/darach-trio-xoxocapa-tickets-2003431925821",
-      "date": "2026-11-06",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195819618%2F264359681189%2F1%2Foriginal.20261014-212748?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a8f4da73e4aa4a574af0dc68a58489a0",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_2003316593860",
       "source": "eventbrite",
