@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:18:43.052Z",
+  "updated": "2026-11-07T21:21:06.814Z",
   "source": "eventbrite",
   "total": 31,
   "events": [
@@ -254,24 +254,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195652159%2F264359681189%2F1%2Foriginal.20261013-000738?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.429&fp-y=0.255&s=203bf35e05c022352fef353de0cb41dd",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_2001709785854",
-      "source": "eventbrite",
-      "title": "Midnigth Heads",
-      "description": "Midnight Heads es un power trio que interpreta éxitos del Doo-woop, Rock and roll y Rockabilly con la intención de conectar estos géneros.",
-      "url": "https://www.eventbrite.com.mx/e/midnigth-heads-tickets-2001709785854",
-      "date": "2026-10-08",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193919868%2F264359681189%2F1%2Foriginal.20260919-202310?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.485&fp-y=0.331&s=47c1b2ed5ec5149f9da9fdbb6eca2957",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_2001009484233",
@@ -558,6 +540,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195394214%2F264359681189%2F1%2Foriginal.20261008-185750?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.714&fp-y=0.358&s=682c14d78457b45e103d704aaf66880d",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2003431925821",
+      "source": "eventbrite",
+      "title": "DARACH + TRIO XOXOCAPA",
+      "description": "Prepárate para una noche única con DARACH y TRIO XOXOCAPA que te harán vibrar con su música en vivo.",
+      "url": "https://www.eventbrite.com.mx/e/darach-trio-xoxocapa-tickets-2003431925821",
+      "date": "2026-11-06",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195819618%2F264359681189%2F1%2Foriginal.20261014-212748?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a8f4da73e4aa4a574af0dc68a58489a0",
       "categoryId": "103",
       "status": "completed"
     }
