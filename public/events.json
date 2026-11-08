@@ -1,26 +1,8 @@
 {
-  "updated": "2026-11-08T03:58:46.576Z",
+  "updated": "2026-11-08T12:38:45.339Z",
   "source": "eventbrite",
   "total": 31,
   "events": [
-    {
-      "id": "eb_2003316593860",
-      "source": "eventbrite",
-      "title": "LUCÍA: Gira 2026",
-      "description": "A través de una propuesta íntima, LUCÍA busca crear un espacio de conexión directa con el público",
-      "url": "https://www.eventbrite.com.mx/e/lucia-gira-2026-tickets-2003316593860",
-      "date": "2026-11-07",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195513358%2F264359681189%2F1%2Foriginal.20261010-155734?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.339&s=6e5fa3664883863eae6f9cc5853bf0da",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_2003736061499",
       "source": "eventbrite",
@@ -558,6 +540,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195819618%2F264359681189%2F1%2Foriginal.20261014-212748?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a8f4da73e4aa4a574af0dc68a58489a0",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2003316593860",
+      "source": "eventbrite",
+      "title": "LUCÍA: Gira 2026",
+      "description": "A través de una propuesta íntima, LUCÍA busca crear un espacio de conexión directa con el público",
+      "url": "https://www.eventbrite.com.mx/e/lucia-gira-2026-tickets-2003316593860",
+      "date": "2026-11-07",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195513358%2F264359681189%2F1%2Foriginal.20261010-155734?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.339&s=6e5fa3664883863eae6f9cc5853bf0da",
       "categoryId": "103",
       "status": "completed"
     }
