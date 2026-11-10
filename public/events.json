@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-09T14:57:30.504Z",
+  "updated": "2026-11-10T01:05:35.922Z",
   "source": "eventbrite",
-  "total": 32,
+  "total": 31,
   "events": [
     {
       "id": "eb_2003171126764",
@@ -251,27 +251,9 @@
       "isFree": false,
       "price": null,
       "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197564163%2F264359681189%2F1%2Foriginal.20261109-031027?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511&fp-y=0.329&s=be74f17361282159778125a5ff73a437",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197640433%2F264359681189%2F1%2Foriginal.20261109-235023?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=501dbbcebdff573c965df6438d4dd739",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_2001267962348",
-      "source": "eventbrite",
-      "title": "Van Lester & Rey David Alejandre: Presentando el disco “Juntos al rescate”",
-      "description": "Dos músicos unidos por la historia de la salsa se encuentran en CAUZ para\npresentar “Juntos al Rescate”.",
-      "url": "https://www.eventbrite.com.mx/e/van-lester-rey-david-alejandre-presentando-el-disco-juntos-al-rescate-tickets-2001267962348",
-      "date": "2026-10-10",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193699535%2F264359681189%2F1%2Foriginal.20260916-215452?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d33877fb8a57c5be846cec44ef0ff982",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_2001724963250",
