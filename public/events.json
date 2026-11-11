@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-10T22:44:52.968Z",
+  "updated": "2026-11-11T04:18:21.847Z",
   "source": "eventbrite",
-  "total": 31,
+  "total": 33,
   "events": [
     {
       "id": "eb_2003171126764",
@@ -238,6 +238,24 @@
       "status": "live"
     },
     {
+      "id": "eb_2004685482242",
+      "source": "eventbrite",
+      "title": "AEROFÓN: Ecos inéditos con Sam Bae + full band",
+      "description": "Prepárate para una noche única con sonidos frescos y la energía de Aerofón",
+      "url": "https://www.eventbrite.com.mx/e/aerofon-ecos-ineditos-con-sam-bae-full-band-tickets-2004685482242",
+      "date": "2026-12-05",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197725571%2F264359681189%2F1%2Foriginal.20261110-223845?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=52981f511657f5681ed7e93e8a8637fe",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
       "id": "eb_2004566675889",
       "source": "eventbrite",
       "title": "KOYEL BASU: De Bengala a Veracruz: entre dos mundos",
@@ -252,6 +270,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197640433%2F264359681189%2F1%2Foriginal.20261109-235023?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=501dbbcebdff573c965df6438d4dd739",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2004691230435",
+      "source": "eventbrite",
+      "title": "JULIÁN MARABOTO TRÍO: Gira \"Triángulo Amoroso\" México 2026",
+      "description": "Prepárate para una noche única con Julián Maraboto Trío y su gira Triángulo Amoroso que te va a encantar.",
+      "url": "https://www.eventbrite.com.mx/e/julian-maraboto-trio-gira-triangulo-amoroso-mexico-2026-tickets-2004691230435",
+      "date": "2026-12-11",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197736323%2F264359681189%2F1%2Foriginal.20261111-015603?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=defee25bf07e4f40e3dc3875dbd695a7",
       "categoryId": "103",
       "status": "live"
     },
