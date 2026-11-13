@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T13:48:23.437Z",
+  "updated": "2026-11-13T23:09:56.333Z",
   "source": "eventbrite",
   "total": 33,
   "events": [
@@ -184,6 +184,24 @@
       "status": "live"
     },
     {
+      "id": "eb_2004826190103",
+      "source": "eventbrite",
+      "title": "MIKI YAMANAKA TRÍO FT. JIMMY MACBRIDE",
+      "description": "Prepárate para disfrutar de un concierto único de  jazz con el Miki Yamanaka Trio y el increíble Jimmy MacBride a la batería.",
+      "url": "https://www.eventbrite.com.mx/e/miki-yamanaka-trio-ft-jimmy-macbride-tickets-2004826190103",
+      "date": "2026-12-02",
+      "time": "19:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197940704%2F264359681189%2F1%2Foriginal.20261113-192947?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6e5bddceaf9d085374ef79262b305a34",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
       "id": "eb_2004566443193",
       "source": "eventbrite",
       "title": "MACUILES: La Quema",
@@ -254,24 +272,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197736323%2F264359681189%2F1%2Foriginal.20261111-015603?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=defee25bf07e4f40e3dc3875dbd695a7",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_2001724963250",
-      "source": "eventbrite",
-      "title": "DIALOGOS: Metales y teclas",
-      "description": "Diálogos: Metales y Teclas es un recital de música de cámara que reúne la sonoridad de la trompeta, el trombón y la versatilidad del piano",
-      "url": "https://www.eventbrite.com.mx/e/dialogos-metales-y-teclas-tickets-2001724963250",
-      "date": "2026-10-14",
-      "time": "19:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193932118%2F264359681189%2F1%2Foriginal.20260920-025100?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.453&fp-y=0.091&s=16bed2e6cd889105af365f743d6f4ecf",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_2001763991986",
