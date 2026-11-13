@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T04:43:36.415Z",
+  "updated": "2026-11-13T13:48:23.437Z",
   "source": "eventbrite",
   "total": 33,
   "events": [
@@ -254,24 +254,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197736323%2F264359681189%2F1%2Foriginal.20261111-015603?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=defee25bf07e4f40e3dc3875dbd695a7",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_2003322234732",
-      "source": "eventbrite",
-      "title": "ANAPAU REYES + CRISTÓBAL CORTÉS GROUP: Noche de jazz entre amigos",
-      "description": "La pasión por la música y el género del jazz es lo que ha llevado a cada uno de los integrantes foráneos a encontrarse en Xalapa.",
-      "url": "https://www.eventbrite.com.mx/e/anapau-reyes-cristobal-cortes-group-noche-de-jazz-entre-amigos-tickets-2003322234732",
-      "date": "2026-11-12",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195652836%2F264359681189%2F1%2Foriginal.20261013-002036?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.573&fp-y=0.487&s=a9c1310b3816ed24ed2569fe7130a392",
-      "categoryId": "103",
-      "status": "started"
     },
     {
       "id": "eb_2001724963250",
@@ -594,6 +576,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195399770%2F264359681189%2F1%2Foriginal.20261008-200145?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.819&fp-y=0.298&s=c9d8fa36f422c110c816bfeb48d6aaed",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2003322234732",
+      "source": "eventbrite",
+      "title": "ANAPAU REYES + CRISTÓBAL CORTÉS GROUP: Noche de jazz entre amigos",
+      "description": "La pasión por la música y el género del jazz es lo que ha llevado a cada uno de los integrantes foráneos a encontrarse en Xalapa.",
+      "url": "https://www.eventbrite.com.mx/e/anapau-reyes-cristobal-cortes-group-noche-de-jazz-entre-amigos-tickets-2003322234732",
+      "date": "2026-11-12",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195652836%2F264359681189%2F1%2Foriginal.20261013-002036?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.573&fp-y=0.487&s=a9c1310b3816ed24ed2569fe7130a392",
       "categoryId": "103",
       "status": "completed"
     }
