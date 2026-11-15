@@ -1,26 +1,8 @@
 {
-  "updated": "2026-11-15T04:28:53.275Z",
+  "updated": "2026-11-15T13:19:39.669Z",
   "source": "eventbrite",
   "total": 32,
   "events": [
-    {
-      "id": "eb_2003320514587",
-      "source": "eventbrite",
-      "title": "ESCARTEEN SISTERS: PEDRA I PLOMA - MÉXICO TOUR",
-      "description": "Ganadoras del primer lugar en los “PREMIS BARCELONA DE LA MÚSICA ACÚSTICA” (2018)\nFueron finalistas en el CONCURSO JAZZ ALGHERO (2019)",
-      "url": "https://www.eventbrite.com.mx/e/escarteen-sisters-pedra-i-ploma-mexico-tour-tickets-2003320514587",
-      "date": "2026-11-14",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195649730%2F264359681189%2F1%2Foriginal.20261012-232732?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.653&fp-y=0.441&s=842a0f9ee75664d8e2ad7d6ceec64691",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_2003556344962",
       "source": "eventbrite",
@@ -576,6 +558,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196299049%2F264359681189%2F1%2Foriginal.20261021-175537?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d00f1db21256cd49000f2461ec53f8a4",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2003320514587",
+      "source": "eventbrite",
+      "title": "ESCARTEEN SISTERS: PEDRA I PLOMA - MÉXICO TOUR",
+      "description": "Ganadoras del primer lugar en los “PREMIS BARCELONA DE LA MÚSICA ACÚSTICA” (2018)\nFueron finalistas en el CONCURSO JAZZ ALGHERO (2019)",
+      "url": "https://www.eventbrite.com.mx/e/escarteen-sisters-pedra-i-ploma-mexico-tour-tickets-2003320514587",
+      "date": "2026-11-14",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195649730%2F264359681189%2F1%2Foriginal.20261012-232732?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.653&fp-y=0.441&s=842a0f9ee75664d8e2ad7d6ceec64691",
       "categoryId": "103",
       "status": "completed"
     }
