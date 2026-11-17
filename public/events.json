@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T01:27:39.976Z",
+  "updated": "2026-11-17T15:24:00.495Z",
   "source": "eventbrite",
-  "total": 32,
+  "total": 33,
   "events": [
     {
       "id": "eb_2003556344962",
@@ -252,6 +252,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197736323%2F264359681189%2F1%2Foriginal.20261111-015603?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=defee25bf07e4f40e3dc3875dbd695a7",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2004931196179",
+      "source": "eventbrite",
+      "title": "VÍCTOR DÍAZ: Concierto íntimo",
+      "description": "Disfruta de una tarde de trova con VÍCTOR DÍAZ y su música que te llegará al corazón.",
+      "url": "https://www.eventbrite.com.mx/e/victor-diaz-concierto-intimo-tickets-2004931196179",
+      "date": "2026-12-19",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198128686%2F264359681189%2F1%2Foriginal.20261117-021820?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.478&fp-y=0.323&s=9cecd275de76e0de3b84449b0da78fb3",
       "categoryId": "103",
       "status": "live"
     },
