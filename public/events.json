@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T14:34:00.772Z",
+  "updated": "2026-11-17T01:27:39.976Z",
   "source": "eventbrite",
   "total": 32,
   "events": [
@@ -166,6 +166,24 @@
       "status": "live"
     },
     {
+      "id": "eb_2004924166152",
+      "source": "eventbrite",
+      "title": "GONZALO DEL VAL FLAMENCO QUARTET",
+      "description": "Prepárate para una noche llena de pasión y ritmo con el flamenco único de Gonzalo del Val y su cuarteto.",
+      "url": "https://www.eventbrite.com.mx/e/gonzalo-del-val-flamenco-quartet-tickets-2004924166152",
+      "date": "2026-12-03",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198119104%2F264359681189%2F1%2Foriginal.20261116-232449?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.521&fp-y=0.156&s=efbfb89eee46c6dd22b035ddbc094d11",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
       "id": "eb_2004566443193",
       "source": "eventbrite",
       "title": "MACUILES: La Quema",
@@ -236,24 +254,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197736323%2F264359681189%2F1%2Foriginal.20261111-015603?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=defee25bf07e4f40e3dc3875dbd695a7",
       "categoryId": "103",
       "status": "live"
-    },
-    {
-      "id": "eb_1998321500401",
-      "source": "eventbrite",
-      "title": "Los Exiliados del Norte ft. Edna Nao",
-      "description": "Norteño elegante. Tex-Mex que sí se baila.",
-      "url": "https://www.eventbrite.com.mx/e/los-exiliados-del-norte-ft-edna-nao-tickets-1998321500401",
-      "date": "2026-10-17",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191298745%2F264359681189%2F1%2Foriginal.20260818-013112?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.426&fp-y=0.553&s=b29b647fff0c83d010b1bef71260ad45",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_2001763344048",
