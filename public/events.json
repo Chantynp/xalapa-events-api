@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T00:24:05.246Z",
+  "updated": "2026-11-18T14:58:21.419Z",
   "source": "eventbrite",
-  "total": 33,
+  "total": 34,
   "events": [
     {
       "id": "eb_2003556344962",
@@ -252,6 +252,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197736323%2F264359681189%2F1%2Foriginal.20261111-015603?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=defee25bf07e4f40e3dc3875dbd695a7",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2004993040156",
+      "source": "eventbrite",
+      "title": "LA IRREVERENTE ORQUESTA",
+      "description": "Prepárate para una noche llena de salsa al estilo de LA IRREVERENTE ORQUESTA",
+      "url": "https://www.eventbrite.com.mx/e/la-irreverente-orquesta-tickets-2004993040156",
+      "date": "2026-12-16",
+      "time": "19:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198216741%2F264359681189%2F1%2Foriginal.20261118-035240?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481&fp-y=0.098&s=e439343fa09febff5994493724ec6c97",
       "categoryId": "103",
       "status": "live"
     },
