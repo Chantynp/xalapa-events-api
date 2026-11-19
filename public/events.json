@@ -1,26 +1,8 @@
 {
-  "updated": "2026-11-18T23:48:53.325Z",
+  "updated": "2026-11-19T05:37:14.239Z",
   "source": "eventbrite",
-  "total": 34,
+  "total": 35,
   "events": [
-    {
-      "id": "eb_2003556344962",
-      "source": "eventbrite",
-      "title": "LA YAYA SOL SEXTETO: Canciones de montaña y jarana",
-      "description": "Prepárate para una tarde llena de ritmo y sabor con sonidos que te llevarán directo a la montaña y la jarana.",
-      "url": "https://www.eventbrite.com.mx/e/la-yaya-sol-sexteto-canciones-de-montana-y-jarana-tickets-2003556344962",
-      "date": "2026-11-18",
-      "time": "19:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196020166%2F264359681189%2F1%2Foriginal.20261017-224432?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.438&fp-y=0.292&s=c5487212e20f8d6c9adb3c2cf9d2b854",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_2003991490494",
       "source": "eventbrite",
@@ -238,6 +220,24 @@
       "status": "live"
     },
     {
+      "id": "eb_2005062932205",
+      "source": "eventbrite",
+      "title": "ZAIRA MENESES: De lo barroco a lo jarocho",
+      "description": "Prepárate para un viaje musical que mezcla lo clásico barroco con el ritmo vibrante del son jarocho.",
+      "url": "https://www.eventbrite.com.mx/e/zaira-meneses-de-lo-barroco-a-lo-jarocho-tickets-2005062932205",
+      "date": "2026-12-10",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198290747%2F264359681189%2F1%2Foriginal.20261119-013113?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.468&fp-y=0.156&s=983c6c9e6b04b42f50dd50c5d131095d",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
       "id": "eb_2004691230435",
       "source": "eventbrite",
       "title": "JULIÁN MARABOTO TRÍO: Gira \"Triángulo Amoroso\" México 2026",
@@ -270,6 +270,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198216741%2F264359681189%2F1%2Foriginal.20261118-035240?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481&fp-y=0.098&s=e439343fa09febff5994493724ec6c97",
+      "categoryId": "103",
+      "status": "live"
+    },
+    {
+      "id": "eb_2005063656371",
+      "source": "eventbrite",
+      "title": "PROYECTO OCEÁNICO: La parentela del danzón",
+      "description": "Ven a disfrutar del danzón y otros géneros caribeños al estilo del PROYECTO OCEÁNICO",
+      "url": "https://www.eventbrite.com.mx/e/proyecto-oceanico-la-parentela-del-danzon-tickets-2005063656371",
+      "date": "2026-12-17",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198292290%2F264359681189%2F1%2Foriginal.20261119-020652?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511&fp-y=0.95&s=9c928a91cda993493d58aeb917c20790",
       "categoryId": "103",
       "status": "live"
     },
