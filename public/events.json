@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-19T05:37:14.239Z",
+  "updated": "2026-11-19T15:06:00.360Z",
   "source": "eventbrite",
-  "total": 35,
+  "total": 36,
   "events": [
     {
       "id": "eb_2003991490494",
@@ -630,6 +630,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195649730%2F264359681189%2F1%2Foriginal.20261012-232732?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.653&fp-y=0.441&s=842a0f9ee75664d8e2ad7d6ceec64691",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2003556344962",
+      "source": "eventbrite",
+      "title": "LA YAYA SOL SEXTETO: Canciones de montaña y jarana",
+      "description": "Prepárate para una tarde llena de ritmo y sabor con sonidos que te llevarán directo a la montaña y la jarana.",
+      "url": "https://www.eventbrite.com.mx/e/la-yaya-sol-sexteto-canciones-de-montana-y-jarana-tickets-2003556344962",
+      "date": "2026-11-18",
+      "time": "19:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196020166%2F264359681189%2F1%2Foriginal.20261017-224432?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.438&fp-y=0.292&s=c5487212e20f8d6c9adb3c2cf9d2b854",
       "categoryId": "103",
       "status": "completed"
     }
