@@ -1,26 +1,8 @@
 {
-  "updated": "2026-11-20T00:11:41.870Z",
+  "updated": "2026-11-20T14:47:08.419Z",
   "source": "eventbrite",
   "total": 37,
   "events": [
-    {
-      "id": "eb_2003991490494",
-      "source": "eventbrite",
-      "title": "JUAN LAGUNES & DIEGO CERROBLANCO: Intercambios y exploraciones sonoras",
-      "description": "Prepárate para una sesión única donde Juan y Diego exploran sonidos y mezclan vibras en vivo.",
-      "url": "https://www.eventbrite.com.mx/e/juan-lagunes-diego-cerroblanco-intercambios-y-exploraciones-sonoras-tickets-2003991490494",
-      "date": "2026-11-19",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196721445%2F264359681189%2F1%2Foriginal.20261027-210710?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.485&fp-y=0.358&s=d07262fd27425128050eef6f713ee74f",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_2003644204753",
       "source": "eventbrite",
@@ -666,6 +648,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196020166%2F264359681189%2F1%2Foriginal.20261017-224432?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.438&fp-y=0.292&s=c5487212e20f8d6c9adb3c2cf9d2b854",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2003991490494",
+      "source": "eventbrite",
+      "title": "JUAN LAGUNES & DIEGO CERROBLANCO: Intercambios y exploraciones sonoras",
+      "description": "Prepárate para una sesión única donde Juan y Diego exploran sonidos y mezclan vibras en vivo.",
+      "url": "https://www.eventbrite.com.mx/e/juan-lagunes-diego-cerroblanco-intercambios-y-exploraciones-sonoras-tickets-2003991490494",
+      "date": "2026-11-19",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196721445%2F264359681189%2F1%2Foriginal.20261027-210710?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.485&fp-y=0.358&s=d07262fd27425128050eef6f713ee74f",
       "categoryId": "103",
       "status": "completed"
     }
