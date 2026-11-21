@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T05:17:07.566Z",
+  "updated": "2026-11-21T14:03:07.136Z",
   "source": "eventbrite",
   "total": 37,
   "events": [
@@ -290,24 +290,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198351607%2F264359681189%2F1%2Foriginal.20261119-211032?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=50cb06d6fe4f65fc4b221974f24db2e4",
       "categoryId": "101",
       "status": "live"
-    },
-    {
-      "id": "eb_2003644204753",
-      "source": "eventbrite",
-      "title": "AMANTE LATINO : Segunda Venida",
-      "description": "Prepárate para una experiencia única que revive el ritmo y la pasión",
-      "url": "https://www.eventbrite.com.mx/e/amante-latino-segunda-venida-tickets-2003644204753",
-      "date": "2026-11-20",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196157303%2F264359681189%2F1%2Foriginal.20261020-032630?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.442&fp-y=0.154&s=7bf131aa4eebf6f32142cec44c99bb41",
-      "categoryId": "103",
-      "status": "started"
     },
     {
       "id": "eb_2001763344048",
@@ -666,6 +648,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196721445%2F264359681189%2F1%2Foriginal.20261027-210710?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.485&fp-y=0.358&s=d07262fd27425128050eef6f713ee74f",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2003644204753",
+      "source": "eventbrite",
+      "title": "AMANTE LATINO : Segunda Venida",
+      "description": "Prepárate para una experiencia única que revive el ritmo y la pasión",
+      "url": "https://www.eventbrite.com.mx/e/amante-latino-segunda-venida-tickets-2003644204753",
+      "date": "2026-11-20",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196157303%2F264359681189%2F1%2Foriginal.20261020-032630?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.442&fp-y=0.154&s=7bf131aa4eebf6f32142cec44c99bb41",
       "categoryId": "103",
       "status": "completed"
     }
