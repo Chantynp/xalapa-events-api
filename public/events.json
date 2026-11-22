@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T04:43:17.834Z",
+  "updated": "2026-11-22T13:56:25.917Z",
   "source": "eventbrite",
   "total": 36,
   "events": [
@@ -272,24 +272,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198351607%2F264359681189%2F1%2Foriginal.20261119-211032?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=50cb06d6fe4f65fc4b221974f24db2e4",
       "categoryId": "101",
       "status": "live"
-    },
-    {
-      "id": "eb_2003323406236",
-      "source": "eventbrite",
-      "title": "LA LUMBRERA: Presentación de \"Al pie de un árbol\"",
-      "description": "La lumbrera, es una agrupación formada en Xalapa (2024) para preservar y difundir el canto cardenche, tradición polifónica a capella.",
-      "url": "https://www.eventbrite.com.mx/e/la-lumbrera-presentacion-de-al-pie-de-un-arbol-tickets-2003323406236",
-      "date": "2026-11-21",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195656090%2F264359681189%2F1%2Foriginal.20261013-012804?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.51&fp-y=0.321&s=115b80cec190fde32d720c475bcf40a1",
-      "categoryId": "103",
-      "status": "started"
     },
     {
       "id": "eb_1999792002713",
@@ -648,6 +630,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196157303%2F264359681189%2F1%2Foriginal.20261020-032630?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.442&fp-y=0.154&s=7bf131aa4eebf6f32142cec44c99bb41",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2003323406236",
+      "source": "eventbrite",
+      "title": "LA LUMBRERA: Presentación de \"Al pie de un árbol\"",
+      "description": "La lumbrera, es una agrupación formada en Xalapa (2024) para preservar y difundir el canto cardenche, tradición polifónica a capella.",
+      "url": "https://www.eventbrite.com.mx/e/la-lumbrera-presentacion-de-al-pie-de-un-arbol-tickets-2003323406236",
+      "date": "2026-11-21",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195656090%2F264359681189%2F1%2Foriginal.20261013-012804?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.51&fp-y=0.321&s=115b80cec190fde32d720c475bcf40a1",
       "categoryId": "103",
       "status": "completed"
     }
