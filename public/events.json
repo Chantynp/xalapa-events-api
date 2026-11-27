@@ -1,26 +1,8 @@
 {
-  "updated": "2026-11-27T01:24:58.035Z",
+  "updated": "2026-11-27T15:59:42.970Z",
   "source": "eventbrite",
   "total": 35,
   "events": [
-    {
-      "id": "eb_2003588958510",
-      "source": "eventbrite",
-      "title": "UNIVERSIDAD MAP: Groove sin fronteras",
-      "description": "Prepárate para una noche llena de ritmo y buena vibra donde el groove no conoce límites ni fronteras.",
-      "url": "https://www.eventbrite.com.mx/e/universidad-map-groove-sin-fronteras-tickets-2003588958510",
-      "date": "2026-11-26",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": true,
-      "price": 0,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196156938%2F264359681189%2F1%2Foriginal.20261020-031824?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.587&fp-y=0.36&s=e93f4ff3d885a0e328fa19eefed71629",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_2003321009066",
       "source": "eventbrite",
@@ -630,6 +612,24 @@
       "price": null,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196150625%2F264359681189%2F1%2Foriginal.20261020-010719?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.372&fp-y=0.204&s=73cf2a78e5924bed13d42b03be72658b",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2003588958510",
+      "source": "eventbrite",
+      "title": "UNIVERSIDAD MAP: Groove sin fronteras",
+      "description": "Prepárate para una noche llena de ritmo y buena vibra donde el groove no conoce límites ni fronteras.",
+      "url": "https://www.eventbrite.com.mx/e/universidad-map-groove-sin-fronteras-tickets-2003588958510",
+      "date": "2026-11-26",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": true,
+      "price": 0,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196156938%2F264359681189%2F1%2Foriginal.20261020-031824?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.587&fp-y=0.36&s=e93f4ff3d885a0e328fa19eefed71629",
       "categoryId": "103",
       "status": "completed"
     }
