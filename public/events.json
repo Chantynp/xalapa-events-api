@@ -1,26 +1,8 @@
 {
-  "updated": "2026-11-28T00:58:16.579Z",
+  "updated": "2026-11-28T14:56:18.068Z",
   "source": "eventbrite",
   "total": 34,
   "events": [
-    {
-      "id": "eb_2003321009066",
-      "source": "eventbrite",
-      "title": "AMIR MORENO & PANAMERICAN STRINGS: Presentación del álbum Vol. IV",
-      "description": "Ven a disfrutar de una noche única con Amir Moreno y Panamerican Strings presentando su nuevo álbum Vol. IV.",
-      "url": "https://www.eventbrite.com.mx/e/amir-moreno-panamerican-strings-presentacion-del-album-vol-iv-tickets-2003321009066",
-      "date": "2026-11-27",
-      "time": "20:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195651214%2F264359681189%2F1%2Foriginal.20261012-235225?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=532955f1e35b6dac599ffc8a847714a1",
-      "categoryId": "103",
-      "status": "live"
-    },
     {
       "id": "eb_2003321910763",
       "source": "eventbrite",
@@ -612,6 +594,24 @@
       "price": 0,
       "currency": "MXN",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196156938%2F264359681189%2F1%2Foriginal.20261020-031824?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.587&fp-y=0.36&s=e93f4ff3d885a0e328fa19eefed71629",
+      "categoryId": "103",
+      "status": "completed"
+    },
+    {
+      "id": "eb_2003321009066",
+      "source": "eventbrite",
+      "title": "AMIR MORENO & PANAMERICAN STRINGS: Presentación del álbum Vol. IV",
+      "description": "Ven a disfrutar de una noche única con Amir Moreno y Panamerican Strings presentando su nuevo álbum Vol. IV.",
+      "url": "https://www.eventbrite.com.mx/e/amir-moreno-panamerican-strings-presentacion-del-album-vol-iv-tickets-2003321009066",
+      "date": "2026-11-27",
+      "time": "20:00",
+      "timezone": "America/Mexico_City",
+      "venue": "Cauz | Foro & Librería",
+      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
+      "isFree": false,
+      "price": null,
+      "currency": "MXN",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195651214%2F264359681189%2F1%2Foriginal.20261012-235225?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=532955f1e35b6dac599ffc8a847714a1",
       "categoryId": "103",
       "status": "completed"
     }
