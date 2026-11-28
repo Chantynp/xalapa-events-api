@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-27T15:59:42.970Z",
+  "updated": "2026-11-28T00:58:16.579Z",
   "source": "eventbrite",
-  "total": 35,
+  "total": 34,
   "events": [
     {
       "id": "eb_2003321009066",
@@ -254,24 +254,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198351607%2F264359681189%2F1%2Foriginal.20261119-211032?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=50cb06d6fe4f65fc4b221974f24db2e4",
       "categoryId": "101",
       "status": "live"
-    },
-    {
-      "id": "eb_1999797775981",
-      "source": "eventbrite",
-      "title": "Lapislázuli: Concierto poético",
-      "description": "Disfruta de una tarde donde la poesía y la música se mezclan para crear una experiencia única y llena de emociones.",
-      "url": "https://www.eventbrite.com.mx/e/lapislazuli-concierto-poetico-tickets-1999797775981",
-      "date": "2026-10-28",
-      "time": "19:00",
-      "timezone": "America/Mexico_City",
-      "venue": "Cauz | Foro & Librería",
-      "venueAddress": "1 José María Morelos, Xalapa-Enríquez, VER 91000",
-      "isFree": false,
-      "price": null,
-      "currency": "MXN",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192704866%2F264359681189%2F1%2Foriginal.20260904-181316?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4a57597d18b4168d891307f61571acba",
-      "categoryId": "103",
-      "status": "completed"
     },
     {
       "id": "eb_1999794670693",
